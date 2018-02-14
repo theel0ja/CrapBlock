@@ -1,0 +1,11 @@
+! Title: CrapBlock Annoyances
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/theel0ja/CrapBlock
+
+
+! YouTube embed pause overlays
+! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
+##div.ytp-pause-overlay
+
+! Google Translate "Join the translate community"
+translate.google.com###t-new-user > .cp-promo-c-
