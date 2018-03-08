@@ -15,3 +15,6 @@ translate.google.com###t-new-user > .cp-promo-c-
 
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
+
+! Webupd8 anti adblock
+||4.bp.blogspot.com/-sQeomkRCqzQ/WL7MLVD4rYI/AAAAAAAAZLE/71VprPZvgbUqfNZoVPF4cy2EHLEDZqLMwCLcB/s1600/be-a-nice-guy.png$image
