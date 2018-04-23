@@ -1,6 +1,6 @@
 ! Title: CrapBlock Annoyances
 ! Expires: 2 days (update frequency)
-! Homepage: https://github.com/theel0ja/CrapBlock
+! Homepage: https://crapblock.theel0ja.info/
 
 
 ! YouTube embed pause overlays
