@@ -18,3 +18,9 @@ translate.google.com###t-new-user > .cp-promo-c-
 
 ! Webupd8 anti adblock
 ||4.bp.blogspot.com/-sQeomkRCqzQ/WL7MLVD4rYI/AAAAAAAAZLE/71VprPZvgbUqfNZoVPF4cy2EHLEDZqLMwCLcB/s1600/be-a-nice-guy.png$image
+
+! gtranslate promo image
+||ssl.gstatic.com/translate/community/promo/promo-new-2x.png$image
+
+! ad fluid container
+www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mainos-fluid-container
