@@ -25,3 +25,7 @@ translate.google.com###gt-promo-lr
 
 ! ad fluid container
 www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mainos-fluid-container
+
+! cryptopicture
+
+||cryptopicture.com^
