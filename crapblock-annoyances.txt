@@ -15,7 +15,7 @@ translate.google.com###gt-promo-lr
 ##.grecaptcha-badge
 
 ! I hate Like buttons...
-||www.facebook.com/plugins/like.php
+||www.facebook.com/v2.5/plugins/like.php$subdocument
 
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
