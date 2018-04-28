@@ -14,6 +14,9 @@ translate.google.com###gt-promo-lr
 ! Invisible Google Recaptcha badge
 ##.grecaptcha-badge
 
+! I hate Like buttons...
+||www.facebook.com/plugins/like.php
+
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
 
@@ -26,6 +29,5 @@ translate.google.com###gt-promo-lr
 ! ad fluid container
 www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mainos-fluid-container
 
-! cryptopicture
-
+! cryptopicture.com
 ||cryptopicture.com^
