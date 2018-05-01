@@ -19,6 +19,8 @@ translate.google.com###gt-promo-lr
 ||www.facebook.com/plugins/like.php$subdocument
 ##iframe[src^="https://www.facebook.com/plugins/like.php"]
 
+browsehappy.com##.likebutton
+
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
 
