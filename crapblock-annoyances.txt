@@ -16,7 +16,7 @@ translate.google.com###gt-promo-lr
 
 ! I hate FB Like buttons...
 ||www.facebook.com/v2.5/plugins/like.php$subdocument
-||www.facebook.com/plugins/like.php$inline-script
+||www.facebook.com/plugins/like.php$subdocument
 ##iframe[src^="https://www.facebook.com/plugins/like.php"]
 
 ! Facebook like button at bgp.he.net
