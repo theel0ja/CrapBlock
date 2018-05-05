@@ -10,11 +10,16 @@
 ! Google Translate "Join the translate community"
 translate.google.com###t-new-user > .cp-promo-c-
 translate.google.com###gt-promo-lr
+||ssl.gstatic.com/translate/community/promo/promo-new-2x.png$image
+
+! Star button at translate.google.com
+translate.google.com###gt-pb-star
+
 
 ! Invisible Google Recaptcha badge
 ##.grecaptcha-badge
 
-! I hate FB Like buttons...
+! FB like buttons
 ||www.facebook.com/v2.5/plugins/like.php$subdocument
 ||www.facebook.com/plugins/like.php$subdocument
 ##iframe[src^="https://www.facebook.com/plugins/like.php"]
@@ -23,17 +28,17 @@ browsehappy.com##.likebutton
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
 
-! Yle Uutiset uutiskirje
+
+! Yle Uutiset newsletter
 yle.fi##.yle__newsletter--uutiset.yle__newsletter
+
 
 ! Webupd8 anti adblock
 ||4.bp.blogspot.com/-sQeomkRCqzQ/WL7MLVD4rYI/AAAAAAAAZLE/71VprPZvgbUqfNZoVPF4cy2EHLEDZqLMwCLcB/s1600/be-a-nice-guy.png$image
 
-! gtranslate promo image
-||ssl.gstatic.com/translate/community/promo/promo-new-2x.png$image
-
-! ad fluid container
+! ad fluid containers
 www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mainos-fluid-container
+kokeile.il.fi##.parade-ad-container
 
-! cryptopicture.com
+! cryptopicture.com crap
 ||cryptopicture.com^
