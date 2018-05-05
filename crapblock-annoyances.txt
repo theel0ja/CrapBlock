@@ -18,11 +18,13 @@ translate.google.com###gt-promo-lr
 ||www.facebook.com/v2.5/plugins/like.php$subdocument
 ||www.facebook.com/plugins/like.php$subdocument
 ##iframe[src^="https://www.facebook.com/plugins/like.php"]
-
 browsehappy.com##.likebutton
 
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
+
+! Yle Uutiset uutiskirje
+yle.fi##.yle__newsletter--uutiset.yle__newsletter
 
 ! Webupd8 anti adblock
 ||4.bp.blogspot.com/-sQeomkRCqzQ/WL7MLVD4rYI/AAAAAAAAZLE/71VprPZvgbUqfNZoVPF4cy2EHLEDZqLMwCLcB/s1600/be-a-nice-guy.png$image
