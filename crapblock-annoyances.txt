@@ -21,6 +21,7 @@ translate.google.com###gt-pb-star
 
 ! FB like buttons
 ||www.facebook.com/v2.5/plugins/like.php$subdocument
+||www.facebook.com/*/plugins/like.php$subdocument
 ||www.facebook.com/plugins/like.php$subdocument
 ##iframe[src^="https://www.facebook.com/plugins/like.php"]
 browsehappy.com##.likebutton
