@@ -28,6 +28,9 @@ browsehappy.com##.likebutton
 ! Facebook like button at bgp.he.net
 ||www.facebook.com/plugins/like.php$domain=bgp.he.net
 
+! Social media buttons at keskustelu.skepsis.fi
+||platform.twitter.com$domain=keskustelu.skepsis.fi
+||connect.facebook.net$domain=keskustelu.skepsis.fi
 
 ! Yle Uutiset newsletter
 yle.fi##.yle__newsletter--uutiset.yle__newsletter
