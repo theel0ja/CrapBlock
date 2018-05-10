@@ -34,6 +34,12 @@ browsehappy.com##.likebutton
 ||connect.facebook.net$domain=keskustelu.skepsis.fi
 keskustelu.skepsis.fi##.twitter-share-button
 
+
+! GooglePlus +1 junk
+||google.com/js/client:plusone.js$third-party
+||google.com/js/plusone.js$third-party
+
+
 ! Yle Uutiset newsletter
 yle.fi##.yle__newsletter--uutiset.yle__newsletter
 
