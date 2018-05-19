@@ -40,6 +40,9 @@ keskustelu.skepsis.fi##.twitter-share-button
 ||google.com/js/client:plusone.js$third-party
 ||google.com/js/plusone.js$third-party
 
+! GooglePlus share button
+||apis.google.com/*/+1/sharebutton$subdocument
+
 
 ! Yle Uutiset newsletter
 yle.fi##.yle__newsletter--uutiset.yle__newsletter
