@@ -42,6 +42,7 @@ keskustelu.skepsis.fi##.twitter-share-button
 
 ! GooglePlus share button
 ||apis.google.com/*/+1/sharebutton$subdocument
+||apis.google.com/*/+1/fastbutton$subdocument
 
 
 ! Yle Uutiset newsletter
