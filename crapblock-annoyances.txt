@@ -44,6 +44,8 @@ keskustelu.skepsis.fi##.twitter-share-button
 ||apis.google.com/*/+1/sharebutton$subdocument
 ||apis.google.com/*/+1/fastbutton$subdocument
 
+! Pinit junk
+||pinterest.com/js/pinit.js$third-party
 
 ! Yle Uutiset newsletter
 yle.fi##.yle__newsletter--uutiset.yle__newsletter
