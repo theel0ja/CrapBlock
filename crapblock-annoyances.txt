@@ -60,3 +60,8 @@ kokeile.il.fi##.parade-ad-container
 
 ! cryptopicture.com crap
 ||cryptopicture.com^
+
+
+! Disqus junk
+##li.disqus-footer__item.install
+##li.disqus-footer__item.privacy
