@@ -65,3 +65,6 @@ kokeile.il.fi##.parade-ad-container
 ! Disqus junk
 ##li.disqus-footer__item.install
 ##li.disqus-footer__item.privacy
+
+! iltalehti näköislehti
+www.iltalehti.fi##.nakoislehti
