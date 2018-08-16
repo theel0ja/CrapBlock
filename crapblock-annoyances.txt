@@ -68,3 +68,8 @@ kokeile.il.fi##.parade-ad-container
 
 ! iltalehti näköislehti
 www.iltalehti.fi##.nakoislehti
+
+
+
+! EXPERIMENTAL reddit pixel (works even without JS!)
+reddit.com/*/pixel.png
