@@ -58,9 +58,6 @@ yle.fi##.yle__newsletter--uutiset.yle__newsletter
 www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mainos-fluid-container
 kokeile.il.fi##.parade-ad-container
 
-! cryptopicture.com crap
-||cryptopicture.com^
-
 
 ! Disqus junk
 ##li.disqus-footer__item.install
@@ -71,5 +68,5 @@ www.iltalehti.fi##.nakoislehti
 
 
 
-! EXPERIMENTAL reddit pixel (works even without JS!)
+! EXPERIMENTAL reddit pixel (it fetches it even without JS!)
 reddit.com/*/pixel.png
