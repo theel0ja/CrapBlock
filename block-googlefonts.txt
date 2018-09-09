@@ -1,3 +1,7 @@
+! Title: Block Google Fonts (by CrapBlock)
+! Expires: 2 days (update frequency)
+! Homepage: https://crapblock.theel0ja.info/
+
 ||fonts.googleapis.com^
 @@||fonts.googleapis.com/css?family=Material+Icons
 @@||fonts.googleapis.com/css?family=Product+Sans
