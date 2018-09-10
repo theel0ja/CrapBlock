@@ -4,4 +4,5 @@
 
 ||fonts.googleapis.com^
 @@||fonts.googleapis.com/css?family=Material+Icons
+@@||fonts.googleapis.com/icon?family=Material+Icons
 @@||fonts.googleapis.com/css?family=Product+Sans
