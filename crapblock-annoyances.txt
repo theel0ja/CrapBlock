@@ -66,6 +66,9 @@ kokeile.il.fi##.parade-ad-container
 ! iltalehti näköislehti
 www.iltalehti.fi##.nakoislehti
 
+! Wilma QR koodi
+wilma.turku.fi##.QR-code.infos-block.panel
+wilma.tnk.utu.fi##.QR-code.infos-block.panel
 
 
 ! EXPERIMENTAL reddit pixel (it fetches it even without JS!)
