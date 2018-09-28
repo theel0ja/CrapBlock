@@ -54,10 +54,11 @@ yle.fi##.yle__newsletter--uutiset.yle__newsletter
 ! Webupd8 anti adblock
 ||4.bp.blogspot.com/-sQeomkRCqzQ/WL7MLVD4rYI/AAAAAAAAZLE/71VprPZvgbUqfNZoVPF4cy2EHLEDZqLMwCLcB/s1600/be-a-nice-guy.png$image
 
-! ad fluid containers
+! ad containers
 www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mainos-fluid-container
 kokeile.il.fi##.parade-ad-container
-
+www.wunderground.com##.pane-wu-fullscreenweather-ad-box-atf
+ilmailukartta.fi##.ad
 
 ! Disqus junk
 ##li.disqus-footer__item.install
