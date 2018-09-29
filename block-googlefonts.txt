@@ -6,3 +6,6 @@
 @@||fonts.googleapis.com/css?family=Material+Icons
 @@||fonts.googleapis.com/icon?family=Material+Icons
 @@||fonts.googleapis.com/css?family=Product+Sans
+
+! unbreak fonts.google.com
+@@fonts.googleapis.com$domain=google.com
