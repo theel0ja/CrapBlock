@@ -71,6 +71,8 @@ www.iltalehti.fi##.nakoislehti
 wilma.turku.fi##.QR-code.infos-block.panel
 wilma.tnk.utu.fi##.QR-code.infos-block.panel
 
+! Unbreak embed.ly due to EasyPrivacy (REPORT TO EASYPRIVACY!!!!)
+@@embed.ly/static/scripts/tracking.js
 
 ! EXPERIMENTAL reddit pixel (it fetches it even without JS!)
 reddit.com/*/pixel.png
