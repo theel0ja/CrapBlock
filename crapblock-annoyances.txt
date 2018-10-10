@@ -76,3 +76,7 @@ wilma.tnk.utu.fi##.QR-code.infos-block.panel
 
 ! EXPERIMENTAL reddit pixel (it fetches it even without JS!)
 reddit.com/*/pixel.png
+
+! Block Wikia cookie consent (ONLY WORKS WITH UBLOCK ORIGIN)
+wikia.com##[data-tracking-opt-in-overlay]
+wikia.com##body:style(overflow: auto !important;)
