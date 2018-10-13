@@ -71,8 +71,9 @@ www.iltalehti.fi##.nakoislehti
 wilma.turku.fi##.QR-code.infos-block.panel
 wilma.tnk.utu.fi##.QR-code.infos-block.panel
 
-! Unbreak embed.ly due to EasyPrivacy (REPORT TO EASYPRIVACY!!!!)
-@@embed.ly/static/scripts/tracking.js
+! Unbreak embed.ly due to EasyPrivacy
+! https://github.com/easylist/easylist/issues/2037
+! @@embed.ly/static/scripts/tracking.js
 
 ! EXPERIMENTAL reddit pixel (it fetches it even without JS!)
 reddit.com/*/pixel.png
@@ -81,3 +82,4 @@ reddit.com/*/pixel.png
 ! https://github.com/ryanbr/fanboy-adblock/issues/572#issuecomment-428090691
 wikia.com##[data-tracking-opt-in-overlay]
 wikia.com##body:style(overflow: auto !important;)
+
