@@ -83,3 +83,5 @@ reddit.com/*/pixel.png
 wikia.com##[data-tracking-opt-in-overlay]
 wikia.com##body:style(overflow: auto !important;)
 
+! Arstechnica
+arstechnica.com###ars-sub-app-no-banners-no-tracking-animated
