@@ -85,3 +85,4 @@ wikia.com##body:style(overflow: auto !important;)
 
 ! Arstechnica
 arstechnica.com###ars-sub-app-no-banners-no-tracking-animated
+arstechnica.com###ars-sub-app-free-yubikey
