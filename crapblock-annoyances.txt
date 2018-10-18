@@ -50,6 +50,8 @@ keskustelu.skepsis.fi##.twitter-share-button
 ! Yle Uutiset newsletter
 yle.fi##.yle__newsletter--uutiset.yle__newsletter
 
+! cosmetic blocking
+disroot.org/pwm-disroot/public/resources/themes/*-bg.jpg
 
 ! Webupd8 anti adblock
 ||4.bp.blogspot.com/-sQeomkRCqzQ/WL7MLVD4rYI/AAAAAAAAZLE/71VprPZvgbUqfNZoVPF4cy2EHLEDZqLMwCLcB/s1600/be-a-nice-guy.png$image
