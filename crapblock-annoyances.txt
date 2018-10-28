@@ -92,3 +92,6 @@ arstechnica.com###ars-sub-app-free-yubikey
 
 ! tori.fi mainos
 www.tori.fi###prisjakt_popular_240x350
+
+! huuto.net hintaseuranta linkit
+www.huuto.net##div.grid-element-container-hintaseuranta.grid-element-container
