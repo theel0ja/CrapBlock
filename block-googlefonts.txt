@@ -6,6 +6,7 @@
 @@||fonts.googleapis.com/css?family=Material+Icons
 @@||fonts.googleapis.com/icon?family=Material+Icons
 @@||fonts.googleapis.com/css?family=Product+Sans
+! TODO: whitelist https://fonts.googleapis.com/*?family=*|Material+Icons
 
-! unbreak fonts.google.com
-@@fonts.googleapis.com$domain=google.com
+! unbreak fonts.google.com and developer.android.com
+@@fonts.googleapis.com$domain=google.com,android.com
