@@ -102,3 +102,6 @@ theverge.com###privacy-consent
 
 ! viheraho mainos
 ||www.viheraho.info/autonvaraosastore728x90.gif$image
+
+! is "natiivi" mainokset
+www.is.fi##.is-advertorial.external.full-width.teaser
