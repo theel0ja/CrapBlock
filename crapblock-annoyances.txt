@@ -109,3 +109,6 @@ www.is.fi##.is-advertorial.external.full-width.teaser
 
 ! adblock warning removals
 www.flashback.org###top-banner-container
+
+! ads not blocked by EasyList
+||betsonsport.ru/banners/$subdocument
