@@ -7,6 +7,10 @@
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
 ##div.ytp-pause-overlay
 
+! Watch later and Share buttons on YouTube embeds
+##.ytp-button.ytp-watch-later-button
+##.ytp-share-button.ytp-button
+
 ! Google Translate "Join the translate community"
 translate.google.com###t-new-user > .cp-promo-c-
 translate.google.com###gt-promo-lr
