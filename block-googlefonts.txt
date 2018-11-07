@@ -1,6 +1,8 @@
 ! Title: Block Google Fonts (by CrapBlock)
 ! Expires: 2 days (update frequency)
 ! Homepage: https://crapblock.theel0ja.info/
+!
+! Download fonts using https://github.com/theel0ja/googlefonts-loader
 
 ||fonts.googleapis.com^
 
