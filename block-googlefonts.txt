@@ -3,10 +3,14 @@
 ! Homepage: https://crapblock.theel0ja.info/
 
 ||fonts.googleapis.com^
+
+! unbreak Material Icons and Product Sans
 @@||fonts.googleapis.com/css?family=Material+Icons
 @@||fonts.googleapis.com/icon?family=Material+Icons
 @@||fonts.googleapis.com/css?family=Product+Sans
-@@fonts.googleapis.com/css?family=*|Material+Icons
 
-! unbreak fonts.google.com and developer.android.com
+@@fonts.googleapis.com/css?family=*|Material+Icons
+@@fonts.googleapis.com/css?family=*|Product+Sans
+
+! unbreak fonts.google.com
 @@fonts.googleapis.com$domain=google.com
