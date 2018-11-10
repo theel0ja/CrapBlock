@@ -106,6 +106,7 @@ www.huuto.net##div.grid-element-container-hintaseuranta.grid-element-container
 
 ! theverge cookie popup
 theverge.com###privacy-consent
+www.theverge.com##.m-privacy-consent__inner
 
 ! viheraho mainos
 ||www.viheraho.info/autonvaraosastore728x90.gif$image
