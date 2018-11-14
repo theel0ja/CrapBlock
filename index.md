@@ -4,9 +4,9 @@ Blocks crap on websites
 
 ## Lists
 * [Annoyances](https://crapblock.theel0ja.info/crapblock-annoyances.txt) (`https://crapblock.theel0ja.info/crapblock-annoyances.txt`)
-  * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt">Install</a>
+  * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt">Install list</a>
 * [Block Google Fonts](https://crapblock.theel0ja.info/block-googlefonts.txt) (`https://crapblock.theel0ja.info/block-googlefonts.txt`)
-  * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/block-googlefonts.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/block-googlefonts.txt">Install</a>
+  * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/block-googlefonts.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/block-googlefonts.txt">Install list</a>
   * [Install Google Fonts locally](https://github.com/theel0ja/googlefonts-loader)
 
 ## Suggestions
