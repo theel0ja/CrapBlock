@@ -120,3 +120,7 @@ www.flashback.org###top-banner-container
 
 ! ads not blocked by EasyList
 ||betsonsport.ru/banners/$subdocument
+
+
+! annoyances in old reddit about the new night mode in reddit redesign
+old.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
