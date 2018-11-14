@@ -10,9 +10,9 @@ Blocks crap on websites
 
 ## Suggestions
 
-* [uBlock Origin](https://github.com/gorhill/uBlock) ([installation](https://github.com/gorhill/uBlock#installation))
+* [uBlock Origin](https://github.com/gorhill/uBlock) ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Opera](https://addons.opera.com/en/extensions/details/ublock/), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://www.microsoft.com/fi-fi/p/ublock-origin/9nblggh444l4?activetab=pivot:overviewtab), [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3))
 * <a href="abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Anti-Cookie List&requiresLocation=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt">Fanboy's Cookiemonster list</a>
-* <a href="abp:subscribe?location=https://adb.theel0ja.info/finnish-easylist-addition/Finland_adb.txt?crapblock&title=Adblock List for Finland&requiresLocation=https://adb.theel0ja.info/finnish-easylist-addition/Finland_adb.txt?crapblock">Adblock List for Finland</a> ([repo](https://github.com/theel0ja/finnish-easylist-addition))
+* <a href="abp:subscribe?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt&title=Finnish Easylist Addition&requires_location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt">Adblock List for Finland</a> ([repo](https://github.com/theel0ja/finnish-easylist-addition))
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <link rel="stylesheet" href="https://theel0ja.info/crapblock-cookieconsent/index.css">
