@@ -124,3 +124,6 @@ www.flashback.org###top-banner-container
 
 ! annoyances in old reddit about the new night mode in reddit redesign
 old.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+
+! block "react to this article"
+||reactandshare.com^$third-party
