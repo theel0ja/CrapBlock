@@ -137,3 +137,6 @@ duckduckgo.com##.tag-home__item
 duckduckgo.com##.js-hl-twitter.header--aside__twitter.header--aside__item
 duckduckgo.com##.header__label.showcase.header--aside__item
 duckduckgo.com##.js-hl-button.header__label.header__clickable.js-popout.popout-trig > .ddgsi-down.ddgsi.js-popout-link
+
+! DDG - "Duck it!" when hovering the logo
+duckduckgo.com##.logo_homepage__tt
