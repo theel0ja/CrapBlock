@@ -141,3 +141,13 @@ duckduckgo.com##.nav-menu--social-media
 
 ! DDG - "Duck it!" when hovering the logo
 duckduckgo.com##.logo_homepage__tt
+
+! DDG - Unblock social links of an person
+@@duckduckgo.com/assets/icons/thirdparty/
+duckduckgo.com#@#.social__link
+duckduckgo.com#@#.social__icon
+
+duckduckgo.com#@#a[title="Twitter"]
+duckduckgo.com#@#a[title="Facebook"]
+duckduckgo.com#@#a[title="Instagram"]
+duckduckgo.com#@#a[title="YouTube"]
