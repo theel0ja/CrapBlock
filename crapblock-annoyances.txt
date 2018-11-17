@@ -127,3 +127,13 @@ old.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 
 ! block "react to this article"
 ||reactandshare.com^$third-party
+
+
+! DDG -- Footer on Search Results
+duckduckgo.com##.footer
+
+! DDG -- Twitter, etc. links on frontpage
+duckduckgo.com##.tag-home__item
+duckduckgo.com##.js-hl-twitter.header--aside__twitter.header--aside__item
+duckduckgo.com##.header__label.showcase.header--aside__item
+duckduckgo.com##.js-hl-button.header__label.header__clickable.js-popout.popout-trig > .ddgsi-down.ddgsi.js-popout-link
