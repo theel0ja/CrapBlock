@@ -128,6 +128,9 @@ old.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 ! block "react to this article"
 ||reactandshare.com^$third-party
 
+! Yandex Share
+yastatic.net/share$script
+
 
 ! DDG -- Footer on Search Results
 duckduckgo.com##.footer
