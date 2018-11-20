@@ -154,3 +154,6 @@ duckduckgo.com#@#a[title="Twitter"]
 duckduckgo.com#@#a[title="Facebook"]
 duckduckgo.com#@#a[title="Instagram"]
 duckduckgo.com#@#a[title="YouTube"]
+
+! IO-Tech.fi - Unblock stuff blocked by Fanboy's Annoyances
+io-tech.fi#@#.sidebar-widgets
