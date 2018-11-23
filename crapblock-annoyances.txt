@@ -166,3 +166,6 @@ www.ctrl.blog##.cta-feedly.page-footer-cta
 
 ! hs.fi - unblock "follow topic" button
 www.hs.fi#@#.follow-text
+
+! MDN Annoyances
+developer.mozilla.org##.notification-tray:has-text(survey)
