@@ -157,3 +157,9 @@ duckduckgo.com#@#a[title="YouTube"]
 
 ! IO-Tech.fi - Unblock stuff blocked by Fanboy's Annoyances
 io-tech.fi#@#.sidebar-widgets
+
+! ctrl.blog - ads
+www.ctrl.blog##.boxa:has(small:has-text(Advertisement))
+
+! ctrl.blog - annoyances
+www.ctrl.blog##.cta-feedly.page-footer-cta
