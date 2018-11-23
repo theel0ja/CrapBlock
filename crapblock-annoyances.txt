@@ -163,3 +163,6 @@ www.ctrl.blog##.boxa:has(small:has-text(Advertisement))
 
 ! ctrl.blog - annoyances
 www.ctrl.blog##.cta-feedly.page-footer-cta
+
+! hs.fi - unblock "follow topic" button
+www.hs.fi#@#.follow-text
