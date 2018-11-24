@@ -100,6 +100,9 @@ www.tori.fi###prisjakt_popular_240x350
 ! tori.fi tyhjä tila
 www.tori.fi###panorama_top
 
+! tori.fi facebook nappi
+www.tori.fi##.pull-right.options_right > div.clear.menu_item:has(.share_on_facebook.menu_item_link)
+
 ! huuto.net hintaseuranta linkit
 www.huuto.net##div.grid-element-container-hintaseuranta.grid-element-container
 
