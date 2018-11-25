@@ -174,7 +174,7 @@ www.hs.fi#@#.follow-text
 developer.mozilla.org##.notification-tray:has-text(survey)
 
 ! Aamulehti.fi - Newsletter
-www.aamulehti.fi###promo-2:has(a[href="https://uutiskirje.aamulehti.fi/"]):has(img)
+www.aamulehti.fi##DIV[id^=promo]:has(a[href="https://uutiskirje.aamulehti.fi/"]):has(img)
 
 ! metrolyrics annoyances
 www.metrolyrics.com##.driver-related
