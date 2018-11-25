@@ -175,3 +175,6 @@ developer.mozilla.org##.notification-tray:has-text(survey)
 
 ! Aamulehti.fi - Newsletter
 www.aamulehti.fi###promo-2:has(a[href="https://uutiskirje.aamulehti.fi/"]):has(img)
+
+! metrolyrics annoyances
+www.metrolyrics.com##.driver-related
