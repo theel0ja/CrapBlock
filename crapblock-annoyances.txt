@@ -145,6 +145,9 @@ duckduckgo.com##.header__label.showcase.header--aside__item
 duckduckgo.com##.js-hl-button.header__label.header__clickable.js-popout.popout-trig > .ddgsi-down.ddgsi.js-popout-link
 duckduckgo.com##.nav-menu--social-media
 
+! DDG - Slide thing on the bottom
+duckduckgo.com##.js-onboarding-ed.onboarding-ed
+
 ! DDG - "Duck it!" when hovering the logo
 duckduckgo.com##.logo_homepage__tt
 
