@@ -184,3 +184,6 @@ www.metrolyrics.com##.driver-related
 
 ! iotech
 bbs.io-tech.fi##img[src^="https://www.io-tech.fi/bnneri"]
+
+! gravatar profiles
+gravatar.com/js/gprofiles.js
