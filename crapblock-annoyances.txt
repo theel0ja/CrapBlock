@@ -181,3 +181,6 @@ www.aamulehti.fi##DIV[id^=promo]:has(a[href="https://uutiskirje.aamulehti.fi/"])
 
 ! metrolyrics annoyances
 www.metrolyrics.com##.driver-related
+
+! iotech
+bbs.io-tech.fi##img[src^="https://www.io-tech.fi/bnneri"]
