@@ -8,6 +8,8 @@ Blocks crap on websites
 * [Block Google Fonts](https://crapblock.theel0ja.info/block-googlefonts.txt) (`https://crapblock.theel0ja.info/block-googlefonts.txt`)
   * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/block-googlefonts.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/block-googlefonts.txt">Install list</a>
   * [Install Google Fonts locally](https://github.com/theel0ja/googlefonts-loader)
+* [Finnish Annoyances](https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt) (`https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt`)
+  * <a href="abp:subscribe?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt&title=CrapBlock Annoyances&requiresLocation=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt">Install list</a>
 
 ## Suggestions
 
