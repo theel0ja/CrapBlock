@@ -187,3 +187,6 @@ bbs.io-tech.fi##img[src^="https://www.io-tech.fi/bnneri"]
 
 ! gravatar profiles
 gravatar.com/js/gprofiles.js
+
+! telia cookie banner
+www.telia.fi##DIV[id^=notification-]:has-text(evästeitä)
