@@ -18,6 +18,10 @@ Blocks crap on websites
 * <a href="abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Anti-Cookie List&requiresLocation=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt">Fanboy's Cookiemonster list</a>
 * <a href="abp:subscribe?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt&title=Finnish Easylist Addition&requires_location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt">Adblock List for Finland</a> ([repo](https://github.com/theel0ja/finnish-easylist-addition))
 
+## More
+
+* [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <link rel="stylesheet" href="https://theel0ja.info/crapblock-cookieconsent/index.css">
 <script src="https://theel0ja.info/crapblock-cookieconsent/index.js"></script>
