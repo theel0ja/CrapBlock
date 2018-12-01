@@ -165,6 +165,9 @@ duckduckgo.com#@#a[title="YouTube"]
 www.startpage.com##.hero-search__learn-more
 www.startpage.com###more-content
 
+! Startpage.com - make Startpage your default search engine
+www.startpage.com##.search-item.card.promotion:has-text(It's your data)
+
 ! IO-Tech.fi - Unblock stuff blocked by Fanboy's Annoyances
 io-tech.fi#@#.sidebar-widgets
 
