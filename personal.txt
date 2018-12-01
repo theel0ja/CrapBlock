@@ -1,0 +1,7 @@
+! Title: CrapBlock - Personal
+! Expires: 2 days (update frequency)
+! Homepage: https://crapblock.theel0ja.info/
+!
+! Blocks clickbait etc. shit that I personally don't want.
+
+duckduckgo.com##.links_deep.links_main.result__body:has(a[href^="https://www.is.fi/mainos"])
