@@ -161,6 +161,10 @@ duckduckgo.com#@#a[title="Facebook"]
 duckduckgo.com#@#a[title="Instagram"]
 duckduckgo.com#@#a[title="YouTube"]
 
+! Startpage.com - "How we protect you"
+www.startpage.com##.hero-search__learn-more
+www.startpage.com###more-content
+
 ! IO-Tech.fi - Unblock stuff blocked by Fanboy's Annoyances
 io-tech.fi#@#.sidebar-widgets
 
