@@ -10,9 +10,11 @@
 @@||fonts.googleapis.com/css?family=Material+Icons
 @@||fonts.googleapis.com/icon?family=Material+Icons
 @@||fonts.googleapis.com/css?family=Product+Sans
+@@||fonts.googleapis.com/css?family=Google+Sans
 
 @@fonts.googleapis.com/css?family=*|Material+Icons
 @@fonts.googleapis.com/css?family=*|Product+Sans
+@@fonts.googleapis.com/css?family=*|Google+Sans
 
 ! unbreak fonts.google.com
 @@fonts.googleapis.com$domain=google.com
