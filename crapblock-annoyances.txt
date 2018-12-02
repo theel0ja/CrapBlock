@@ -168,6 +168,9 @@ www.startpage.com###more-content
 ! Startpage.com - make Startpage your default search engine
 www.startpage.com##.search-item.card.promotion:has-text(It's your data)
 
+! Yle.fi - Block newsletter on frontpage
+yle.fi##DIV[class^=TextBanner]:has(DIV[class^=SubscriptionForm__container__]:has-text(yle.fi-uutiskirje))
+
 ! IO-Tech.fi - Unblock stuff blocked by Fanboy's Annoyances
 io-tech.fi#@#.sidebar-widgets
 
