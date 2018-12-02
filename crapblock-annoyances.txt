@@ -86,8 +86,8 @@ reddit.com/*/pixel.png
 
 ! Block Wikia cookie consent (ONLY WORKS WITH UBLOCK ORIGIN)
 ! https://github.com/ryanbr/fanboy-adblock/issues/572#issuecomment-428090691
-wikia.com##[data-tracking-opt-in-overlay]
-wikia.com##body:style(overflow: auto !important;)
+! wikia.com##[data-tracking-opt-in-overlay]
+! wikia.com##body:style(overflow: auto !important;)
 
 ! Arstechnica
 arstechnica.com###ars-sub-app-no-banners-no-tracking-animated
