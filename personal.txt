@@ -1,5 +1,6 @@
+[Adblock Plus 2.0]
 ! Title: CrapBlock - Personal
-! Expires: 2 days (update frequency)
+! Expires: 12 hours
 ! Homepage: https://crapblock.theel0ja.info/
 !
 ! Blocks clickbait etc. shit that I personally don't want.
