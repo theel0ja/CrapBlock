@@ -208,3 +208,13 @@ www.telia.fi##DIV[id^=notification-]:has-text(evästeitä)
 
 ! quad9 search unblocker
 @@||api.quad9.net/search/
+
+! Freepik New Year banners
+||cdns2.freepik.com/img/campaigns/flashsales/banner/background.jpg$image
+||cdns2.freepik.com/img/campaigns/flashsales/popup/1.png$image
+www.freepik.com###banner-flashsales-1
+www.freepik.com###popup-flashsales-1
+www.freepik.com###header:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
+www.freepik.com###footer:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
+www.freepik.com##.single-column:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
+www.freepik.com##.top-banner:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
