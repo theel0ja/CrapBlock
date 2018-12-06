@@ -220,6 +220,9 @@ www.freepik.com###footer:style(-webkit-filter:blur(0px) !important; -moz-filter:
 www.freepik.com##.single-column:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
 www.freepik.com##.top-banner:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
 
+! Userstyles.org - "Please download our Android app"
+userstyles.org##.android_button_banner
+
 ! Stylish - Spyware risk
 ! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
 ##[href^="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"]
