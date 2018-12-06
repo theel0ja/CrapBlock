@@ -210,6 +210,9 @@ www.telia.fi##DIV[id^=notification-]:has-text(evästeitä)
 ! quad9 search unblocker
 @@||api.quad9.net/search/
 
+! Speedtest.net - Downdetector
+speedtest.net##.eot-dd.pure-g:has(.svg-icon-downdetector-logo)
+
 ! Freepik New Year banners
 ||cdns2.freepik.com/img/campaigns/flashsales/banner/background.jpg$image
 ||cdns2.freepik.com/img/campaigns/flashsales/popup/1.png$image
