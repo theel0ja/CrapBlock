@@ -137,30 +137,31 @@ yastatic.net/share$script
 
 
 ! DDG -- Footer on Search Results
-duckduckgo.com##.footer
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.footer
 
 ! DDG -- Twitter, etc. links on frontpage
-duckduckgo.com##.tag-home__item
-duckduckgo.com##.js-hl-twitter.header--aside__twitter.header--aside__item
-duckduckgo.com##.header__label.showcase.header--aside__item
-duckduckgo.com##.js-hl-button.header__label.header__clickable.js-popout.popout-trig > .ddgsi-down.ddgsi.js-popout-link
-duckduckgo.com##.nav-menu--social-media
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.tag-home__item
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.js-hl-twitter.header--aside__twitter.header--aside__item
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.header__label.showcase.header--aside__item
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.js-hl-button.header__label.header__clickable.js-popout.popout-trig > .ddgsi-down.ddgsi.js-popout-link
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.nav-menu--social-media
 
 ! DDG - Slide thing on the bottom
-duckduckgo.com##.js-onboarding-ed.onboarding-ed
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.js-onboarding-ed.onboarding-ed
 
 ! DDG - "Duck it!" when hovering the logo
-duckduckgo.com##.logo_homepage__tt
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.logo_homepage__tt
 
 ! DDG - Unblock social links of an person
 @@duckduckgo.com/assets/icons/thirdparty/
-duckduckgo.com#@#.social__link
-duckduckgo.com#@#.social__icon
+@@3g2upl4pq6kufc4m.onion/assets/icons/thirdparty/
+duckduckgo.com,3g2upl4pq6kufc4m.onion#@#.social__link
+duckduckgo.com,3g2upl4pq6kufc4m.onion#@#.social__icon
 
-duckduckgo.com#@#a[title="Twitter"]
-duckduckgo.com#@#a[title="Facebook"]
-duckduckgo.com#@#a[title="Instagram"]
-duckduckgo.com#@#a[title="YouTube"]
+duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="Twitter"]
+duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="Facebook"]
+duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="Instagram"]
+duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="YouTube"]
 
 ! Startpage.com - "How we protect you"
 www.startpage.com##.hero-search__learn-more
