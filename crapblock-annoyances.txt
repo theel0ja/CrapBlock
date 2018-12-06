@@ -218,3 +218,11 @@ www.freepik.com###header:style(-webkit-filter:blur(0px) !important; -moz-filter:
 www.freepik.com###footer:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
 www.freepik.com##.single-column:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
 www.freepik.com##.top-banner:style(-webkit-filter:blur(0px) !important; -moz-filter:blur(0px) !important; -ms-filter:blur(0px) !important; -o-filter:blur(0px) !important; filter:blur(0px) !important;)
+
+! Stylish - Spyware risk
+! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
+##[href^="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"]
+##[href^="https://addons.mozilla.org/en-US/firefox/addon/stylish"]
+##[href^="https://addons.opera.com/en-gb/extensions/details/stylish"]
+||chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe^$document
+||addons.opera.com/en/extensions/details/stylish-for-opera/^$document
