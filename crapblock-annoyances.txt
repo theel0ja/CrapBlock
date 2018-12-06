@@ -222,6 +222,7 @@ www.freepik.com##.top-banner:style(-webkit-filter:blur(0px) !important; -moz-fil
 
 ! Userstyles.org - "Please download our Android app"
 userstyles.org##.android_button_banner
+userstyles.org###top_android_button:has-text(Stylish on Android)
 
 ! Stylish - Spyware risk
 ! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
