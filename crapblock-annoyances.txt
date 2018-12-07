@@ -239,6 +239,7 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 
 
 ||adblock.keweon.center^
+||keweon.center^
 
 ! Power.fi - Newsletter
 power.fi##.ng-scope.notification-newsletter
