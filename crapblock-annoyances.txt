@@ -237,5 +237,8 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ||chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe^$document
 ||addons.opera.com/en/extensions/details/stylish-for-opera/^$document
 
+
+||adblock.keweon.center^
+
 ! Power.fi - Newsletter
 power.fi##.ng-scope.notification-newsletter
