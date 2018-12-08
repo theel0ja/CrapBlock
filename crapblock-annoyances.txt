@@ -243,3 +243,6 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 
 ! Power.fi - Newsletter
 power.fi##.ng-scope.notification-newsletter
+
+! Ads on portforward.com
+portforward.com##[href="https://portforward.com/store/pfconfig.cgi"]
