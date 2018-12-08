@@ -241,6 +241,9 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ||adblock.keweon.center^
 ||keweon.center^
 
+! NordVPN ads
+##[href*="go.nordvpn.net"]
+
 ! Power.fi - Newsletter
 power.fi##.ng-scope.notification-newsletter
 
