@@ -3,6 +3,8 @@
 ! Expires: 12 hours
 ! Homepage: https://crapblock.theel0ja.info/
 
+! Upstream
+!#include vendor/finnish-easylist-addition/annoyances/Finland_annoyances.txt
 
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
