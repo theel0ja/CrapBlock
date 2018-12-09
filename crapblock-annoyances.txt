@@ -249,3 +249,6 @@ power.fi##.ng-scope.notification-newsletter
 
 ! Ads on portforward.com
 portforward.com##[href="https://portforward.com/store/pfconfig.cgi"]
+
+! Unbreak independent.co.uk
+@@cdn.ampproject.org/*$domain=independent.co.uk
