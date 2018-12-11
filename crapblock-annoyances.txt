@@ -265,3 +265,8 @@ portforward.com##[href="https://portforward.com/store/pfconfig.cgi"]
 
 ! facebook
 facebook.com###u_0_f:has-text(See more of ):has-text( on Facebook)
+
+! distrowatch frontpage
+distrowatch.com##a[href^="https://www.elastix.org/free-cloud-pbx/"]
+distrowatch.com##td:nth-of-type(3) > table:has-text(Sidebar Sponsor)
+distrowatch.com##tr:nth-of-type(15) > .News1 > .News > tbody:has(.NewsDate:has-text(Sponsored Listing))
