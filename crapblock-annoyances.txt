@@ -148,6 +148,10 @@ duckduckgo.com,3g2upl4pq6kufc4m.onion##.header__label.showcase.header--aside__it
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.js-hl-button.header__label.header__clickable.js-popout.popout-trig > .ddgsi-down.ddgsi.js-popout-link
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.nav-menu--social-media
 
+! DDG - Mobile annoyances
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--top.badge-link
+duckduckgo.com,3g2upl4pq6kufc4m.onion##.atb-banner
+
 ! DDG - Slide thing on the bottom
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.js-onboarding-ed.onboarding-ed
 
