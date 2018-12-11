@@ -188,6 +188,13 @@ www.ctrl.blog##.boxa:has(small:has-text(Advertisement))
 ! ctrl.blog - annoyances
 www.ctrl.blog##.cta-feedly.page-footer-cta
 
+! ctrl.blog - anti adblock
+www.ctrl.blog##.entry-header>aside:has(a[href="https://flattr.com/contributors"]):has-text(Become a patron of the web.)
+www.ctrl.blog##.entry-header>aside:has-text(Please disable your blocker)
+www.ctrl.blog##.entry-header>aside:has-text(Please consider disabling your ad blocker. It takes human time and effort to write this and ads pay the bills.)
+www.ctrl.blog##.entry-header>aside:has-text(Hey! I just met you; and this is crazy; but whitelist me in adblock, maybe?)
+www.ctrl.blog##.entry-header>aside:has-text(Your internet bill doesn’t pay the websites you read.):has([href="https://flattr.com/contributors"])
+
 ! hs.fi - unblock "follow topic" button
 www.hs.fi#@#.follow-text
 
