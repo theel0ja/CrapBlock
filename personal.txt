@@ -7,7 +7,11 @@
 
 twitter.com##.js-moments-tab.moments
 
+! native ads in ddg results
 duckduckgo.com##.links_deep.links_main.result__body:has(a[href^="https://www.is.fi/mainos"])
+
+! crappy news sites in ddg news
+duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi/"])
 
 ! google translate - translate page
 translate.google.com###gba
