@@ -1,4 +1,0 @@
-[submodule "vendor/finnish-easylist-addition"]
-	path = vendor/finnish-easylist-addition
-	url = https://github.com/finnish-easylist-addition/finnish-easylist-addition.git
-	branch = annoyances
