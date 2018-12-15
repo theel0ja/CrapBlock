@@ -248,10 +248,6 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ||chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe^$document
 ||addons.opera.com/en/extensions/details/stylish-for-opera/^$document
 
-
-||adblock.keweon.center^
-||keweon.center^
-
 ! NordVPN ads
 ##[href*="go.nordvpn.net"]
 
@@ -283,3 +279,8 @@ seekingalpha.com##body:style(overflow: auto !important;)
 ! theguardian
 www.theguardian.com##.hide-until-mobile.new-header__cta-bar:has-text(Support The):has-text(Guardian)
 www.theguardian.com##.contributions__epic
+
+! other
+||adblock.keweon.center^
+||keweon.center^
+@@||buttons.github.io/buttons.js$domain=github.io
