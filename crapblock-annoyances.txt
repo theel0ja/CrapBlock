@@ -278,3 +278,7 @@ distrowatch.com##tr:nth-of-type(15) > .News1 > .News > tbody:has(.NewsDate:has-t
 ! anti-adblock
 @@*$generichide,domain=poedb.tw
 @@||poedb.tw/js/ads.js ! adguard annoyance list
+
+! Registration nag on seekingalpha.com
+seekingalpha.com##.in.fade.modal:has(.modal-body:has-text(to finish reading this article):has-text(Already Registered?))
+seekingalpha.com##body:style(overflow: auto !important;)
