@@ -9,3 +9,4 @@ Blocks crap on websites
 ## More
 
 * [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
+* [Firefox recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
