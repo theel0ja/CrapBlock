@@ -279,3 +279,7 @@ distrowatch.com##tr:nth-of-type(15) > .News1 > .News > tbody:has(.NewsDate:has-t
 ! Registration nag on seekingalpha.com
 seekingalpha.com##.in.fade.modal:has(.modal-body:has-text(to finish reading this article):has-text(Already Registered?))
 seekingalpha.com##body:style(overflow: auto !important;)
+
+! theguardian
+www.theguardian.com##.hide-until-mobile.new-header__cta-bar:has-text(Support The):has-text(Guardian)
+www.theguardian.com##.contributions__epic
