@@ -42,6 +42,9 @@ www.is.fi##.desktop.level-one > .item-level-one.has-subs.sports
 www.is.fi##.desktop.level-one > .item-level-one.has-subs.entertainment
 
 ! junk on is.fi
+www.is.fi##.right-position.lane > div.block:has-text(Näköislehti)
+www.is.fi##.right-position.lane > div.block:has-text(10 kysymystä)
+
 www.is.fi##.mystyle.lifestyle.fashion-root.fashion.lifestyle-list
 www.is.fi##.lifestyle-teaser
 ||www.is.fi/assets/images/fashion-logo-header.*.svg$image
