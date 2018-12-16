@@ -259,6 +259,9 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ! NordVPN ads
 ##[href*="go.nordvpn.net"]
 
+! PIA banners
+/pia_banner.$image
+
 ! Power.fi - Newsletter
 power.fi##.ng-scope.notification-newsletter
 
