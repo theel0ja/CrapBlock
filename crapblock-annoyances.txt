@@ -241,6 +241,7 @@ www.freepik.com##.top-banner:style(-webkit-filter:blur(0px) !important; -moz-fil
 userstyles.org##.android_button_banner
 userstyles.org###top_android_button:has-text(Stylish on Android)
 userstyles.org##div.us-stylecard--short:has(.fallbackDiv:has(.fallbackImg[src*="/ui/images/280x294.png"]))
+userstyles.org##.overlay_background
 
 ! Stylish - Spyware risk
 ! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
