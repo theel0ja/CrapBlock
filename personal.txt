@@ -15,3 +15,12 @@ duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi
 
 ! google translate - translate page
 translate.google.com###gba
+
+! Sports on is.fi
+www.is.fi##[href^="/ampumahiihto"]
+www.is.fi##[href^="/makihyppy"]
+www.is.fi##[href^="/urheilu"]
+www.is.fi##[href^="/jaakiekko"]
+www.is.fi##[href^="/maastohiihto"]
+www.is.fi##[href^="/nhl"]
+www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
