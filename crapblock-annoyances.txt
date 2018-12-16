@@ -2,6 +2,9 @@
 ! Title: CrapBlock Annoyances
 ! Expires: 12 hours
 ! Homepage: https://crapblock.theel0ja.info/
+!
+! upstream
+! TODO: add finnish-easylist-addition annoyances
 
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
