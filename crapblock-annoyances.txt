@@ -299,3 +299,9 @@ www.theguardian.com##.contributions__epic
 
 ! Stack Overflow teams
 stackoverflow.com##li > .nav-links:has-text(Teams):has(a[href*="/teams"])
+
+! fsf directory fundraiser
+directory.fsf.org##[src="//static1p.fsf.org/nosvn/banners/2018fundraiser/"]
+directory.fsf.org##div#mw-head:style(margin-top: auto !important;)
+directory.fsf.org##div#mw-panel:style(margin-top: auto !important;)
+directory.fsf.org##div#.client-js:style(height: auto;)
