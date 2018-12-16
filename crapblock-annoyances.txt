@@ -240,10 +240,14 @@ www.freepik.com##.top-banner:style(-webkit-filter:blur(0px) !important; -moz-fil
 ! Userstyles.org - "Please download our Android app"
 userstyles.org##.android_button_banner
 userstyles.org###top_android_button:has-text(Stylish on Android)
+userstyles.org##div.us-stylecard--short:has(.fallbackDiv:has(.fallbackImg[src*="/ui/images/280x294.png"]))
 
 ! Stylish - Spyware risk
 ! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
 userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
+
+! Stylish - unblock icons
+@@userstyles.org/ui/images/icons/$image
 
 ##[href^="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"]
 ##[href^="https://addons.mozilla.org/en-US/firefox/addon/stylish"]
