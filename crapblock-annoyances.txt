@@ -292,3 +292,6 @@ www.theguardian.com##.contributions__epic
 ||adblock.keweon.center^
 ||keweon.center^
 @@||buttons.github.io/buttons.js$domain=github.io
+
+! Stack Overflow teams
+stackoverflow.com##li > .nav-links:has-text(Teams):has(a[href*="/teams"])
