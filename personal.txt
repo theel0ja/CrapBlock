@@ -35,7 +35,17 @@ www.is.fi##.most-popular > li:has([href^="/nhl"])
 www.is.fi##.most-popular > li:has([href^="/nyrkkeily"])
 www.is.fi##.most-popular > li:has([href^="/viihde/"])
 
-www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
+www.iltalehti.fi##li:has([href="/tyylicom"])
+www.iltalehti.fi##li:has([href="/rakkausjaseksi"])
+www.iltalehti.fi##[href^="/rakkausjaseksi"]
+www.iltalehti.fi##[href^="/tyylicom"]
+www.iltalehti.fi##[href^="/nhl"]
+www.iltalehti.fi##[href^="/talviurheilu"]
+www.iltalehti.fi##[href^="/viihde"]
+www.iltalehti.fi##.article-list > * > [href^="/rakkausjaseksiartikkelit/"]
+www.iltalehti.fi##.article-list > * > [href^="/nhl/"]
+www.iltalehti.fi##.article-list > * > [href^="/talviurheilu/"]
+www.iltalehti.fi##.article-list > * > [href^="/viihde"]
 
 ! valikko
 www.is.fi##.desktop.level-one > .item-level-one.has-subs.sports
@@ -44,6 +54,8 @@ www.is.fi##.desktop.level-one > .item-level-one.has-subs.entertainment
 ! junk on is.fi
 www.is.fi##.right-position.lane > div.block:has-text(Näköislehti)
 www.is.fi##.right-position.lane > div.block:has-text(10 kysymystä)
+www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
+
 
 www.is.fi##.mystyle.lifestyle.fashion-root.fashion.lifestyle-list
 www.is.fi##.lifestyle-teaser
