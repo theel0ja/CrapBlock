@@ -305,3 +305,10 @@ directory.fsf.org##[src="//static1p.fsf.org/nosvn/banners/2018fundraiser/"]
 directory.fsf.org##div#mw-head:style(margin-top: auto !important;)
 directory.fsf.org##div#mw-panel:style(margin-top: auto !important;)
 directory.fsf.org##div#.client-js:style(height: auto;)
+
+! pastebin
+||pastebin.com/zip/$subdocument
+||pastebin.com/i/steadfast_1.png$image
+||pastebin.com/i/index_bar_christmas.png$image
+pastebin.com###blackfridaynotice
+pastebin.com###content_right > div:has-text(gift a PRO account)
