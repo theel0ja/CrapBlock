@@ -1,0 +1,13 @@
+! To be moved to Crapblock annoyances/finnish annoyance list
+
+! youtube cosmetic
+! height is 50% of current one
+www.youtube.com###masthead-positioner-height-offset:style(height: 56px !important
+
+www.is.fi##.in-right-lane-position.video-container
+www.is.fi##.r-loading-indicator
+
+! Verkkouutiset Plus nag
+www.verkkouutiset.fi##.exclusive.featured-post:has-text(Kirjautumalla saat enemmän)
+! vastuullista journalismia
+www.verkkouutiset.fi##.sidebar-width.gray:has([src*="vastuullistajournalismia"])

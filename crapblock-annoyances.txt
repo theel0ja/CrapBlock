@@ -318,3 +318,9 @@ pastebin.com###content_right > div:has-text(gift a PRO account)
 
 ! subscription nag
 www.ghacks.net##div.border--top--gray:has-text(We need your help)
+
+! twitter "moments"
+twitter.com##.js-moments-tab.moments
+
+! osm welcome
+www.openstreetmap.org##.visible.welcome
