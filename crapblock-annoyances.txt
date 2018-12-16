@@ -315,3 +315,6 @@ www.fsf.org##iframe[src="//static1p.fsf.org/nosvn/banners/2018fundraiser/"]
 ||pastebin.com/i/index_bar_christmas.png$image
 pastebin.com###blackfridaynotice
 pastebin.com###content_right > div:has-text(gift a PRO account)
+
+! subscription nag
+www.ghacks.net##div.border--top--gray:has-text(We need your help)
