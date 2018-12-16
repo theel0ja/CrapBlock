@@ -306,6 +306,9 @@ directory.fsf.org##div#mw-head:style(margin-top: auto !important;)
 directory.fsf.org##div#mw-panel:style(margin-top: auto !important;)
 directory.fsf.org##div#.client-js:style(height: auto;)
 
+! fsf website fundraiser
+www.fsf.org##iframe[src="//static1p.fsf.org/nosvn/banners/2018fundraiser/"]
+
 ! pastebin
 ||pastebin.com/zip/$subdocument
 ||pastebin.com/i/steadfast_1.png$image
