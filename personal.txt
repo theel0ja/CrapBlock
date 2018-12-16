@@ -24,7 +24,23 @@ www.is.fi##[href^="/jaakiekko"]
 www.is.fi##[href^="/maastohiihto"]
 www.is.fi##[href^="/nhl"]
 www.is.fi##[href^="/nyrkkeily"]
+www.is.fi##[href^="/viihde/"]
+
+www.is.fi##.most-popular > li:has([href^="/ampumahiihto"])
+www.is.fi##.most-popular > li:has([href^="/makihyppy"])
+www.is.fi##.most-popular > li:has([href^="/urheilu"])
+www.is.fi##.most-popular > li:has([href^="/jaakiekko"])
+www.is.fi##.most-popular > li:has([href^="/maastohiihto"])
+www.is.fi##.most-popular > li:has([href^="/nhl"])
+www.is.fi##.most-popular > li:has([href^="/nyrkkeily"])
+www.is.fi##.most-popular > li:has([href^="/viihde/"])
+
 www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
+
+! valikko
+www.is.fi##.desktop.level-one > .item-level-one.has-subs.sports
+www.is.fi##.desktop.level-one > .item-level-one.has-subs.entertainment
+
 
 ! video loading indicator
 www.is.fi##.r-loading-indicator
