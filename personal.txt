@@ -23,4 +23,8 @@ www.is.fi##[href^="/urheilu"]
 www.is.fi##[href^="/jaakiekko"]
 www.is.fi##[href^="/maastohiihto"]
 www.is.fi##[href^="/nhl"]
+www.is.fi##[href^="/nyrkkeily"]
 www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
+
+! video loading indicator
+www.is.fi##.r-loading-indicator
