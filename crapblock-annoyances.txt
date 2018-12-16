@@ -126,10 +126,10 @@ www.flashback.org###top-banner-container
 
 
 ! annoyances in old reddit about the new night mode in reddit redesign & please sign up
-old.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 
-old.reddit.com##.listingsignupbar.infobar
-old.reddit.com##.commentsignupbar.infobar
+reddit.com##.listingsignupbar.infobar
+reddit.com##.commentsignupbar.infobar
 
 ! block "react to this article"
 ||reactandshare.com^$third-party
