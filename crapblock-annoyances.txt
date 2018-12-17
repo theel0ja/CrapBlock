@@ -24,7 +24,6 @@ translate.google.com###gt-promo-lr
 ! Star button at translate.google.com
 translate.google.com###gt-pb-star
 
-
 ! Invisible Google Recaptcha badge
 ##.grecaptcha-badge
 
@@ -97,6 +96,11 @@ reddit.com/*/pixel.png
 arstechnica.com###ars-sub-app-no-banners-no-tracking-animated
 arstechnica.com###ars-sub-app-free-yubikey
 
+! xda developers
+||xda-developers.com/images/XDA2013/header/swappa.png$image
+||xda-developers.com/images/XDA2013/header/themer_social_white.png$image
+||xda-cdn.com/files/*/leaseweb_*.png$image
+||xda-developers.com/images/leaseweb_*.png$image
 
 ! tori.fi mainos
 www.tori.fi###prisjakt_popular_240x350
