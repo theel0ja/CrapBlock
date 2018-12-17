@@ -134,6 +134,10 @@ reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 
 reddit.com##.listingsignupbar.infobar
 reddit.com##.commentsignupbar.infobar
+reddit.com##.onboardingbar.subscribebar.infobar
+reddit.com##.ProfileVoiceAd
+reddit.com##.giftgold:has(.access-required)
+reddit.com##.trending-subreddits
 
 ! block "react to this article"
 ||reactandshare.com^$third-party
