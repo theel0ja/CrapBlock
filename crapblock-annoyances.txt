@@ -5,6 +5,7 @@
 !
 ! upstream
 ! TODO: add finnish-easylist-addition annoyances
+!#include anti-adblock.txt
 
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
