@@ -65,6 +65,10 @@ www.is.fi##.lifestyle-teaser
 www.is.fi##[href^="/mystyle"]
 www.is.fi##.lane-header-lifestyle.lane-header
 
+! youtube junk content
+www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Reality TV)
+www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Beauty Tips)
+
 ! Unblock Facebook comments on Verkkouutiset
 @@||connect.facebook.net$domain=www.verkkouutiset.fi
 @@||facebook.com/connect$domain=www.verkkouutiset.fi
