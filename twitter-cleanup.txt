@@ -9,3 +9,9 @@ twitter.com##.js-moments-tab.moments
 ! Annoyances
 twitter.com##.Footer-adsModule
 twitter.com##.import-prompt.flex-module
+
+! Right-side links (copyright, about, ...)
+twitter.com##.roaming-module.module.Footer:has(.copyright.Footer-copyright.Footer-item)
+
+! Ad links in the "profile picture dropdown menu"
+twitter.com##.is-autoCentered.is-forceRight.dropdown-menu--rightAlign.dropdown-menu.DashUserDropdown > * > * > [href^="https://ads.twitter.com/"]
