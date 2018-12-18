@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: CrapBlock Twitter Cleanup
+! Expires: 4 days
+! Homepage: https://crapblock.theel0ja.info/
+
+! Moments
+twitter.com##.js-moments-tab.moments
+
+! Annoyances
+twitter.com##.Footer-adsModule
+twitter.com##.import-prompt.flex-module

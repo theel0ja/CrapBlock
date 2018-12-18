@@ -6,6 +6,7 @@
 ! upstream
 ! TODO: add finnish-easylist-addition annoyances
 !#include anti-adblock.txt
+!#include twitter-cleanup.txt
 
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
@@ -331,9 +332,6 @@ pastebin.com###content_right > div:has-text(gift a PRO account)
 
 ! subscription nag
 www.ghacks.net##div.border--top--gray:has-text(We need your help)
-
-! twitter "moments"
-twitter.com##.js-moments-tab.moments
 
 ! osm welcome
 www.openstreetmap.org##.visible.welcome
