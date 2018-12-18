@@ -321,6 +321,9 @@ directory.fsf.org##div#.client-js:style(height: auto;)
 ! fsf website fundraiser
 www.fsf.org##iframe[src="//static1p.fsf.org/nosvn/banners/2018fundraiser/"]
 
+! annoying popup on fsf.org
+www.fsf.org###fsf-modal-window-elem-container
+
 ! pastebin
 ||pastebin.com/zip/$subdocument
 ||pastebin.com/i/steadfast_1.png$image
