@@ -1,7 +1,6 @@
 # CrapBlock
 
 Blocks crap on websites
-
 ## Lists
 * [Annoyances](https://crapblock.theel0ja.info/crapblock-annoyances.txt) (`https://crapblock.theel0ja.info/crapblock-annoyances.txt`)
   * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt">Install list</a>
@@ -27,3 +26,9 @@ Blocks crap on websites
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <link rel="stylesheet" href="https://theel0ja.info/crapblock-cookieconsent/index.css">
 <script src="https://theel0ja.info/crapblock-cookieconsent/index.js"></script>
+
+<a href="https://github.com/theel0ja/crapblock" id="githubForkMeRibbon">
+  <img style="position: absolute; top: 0; right: 0; border: 0; width: 149px; height: 149px;"
+    src="https://aral.github.io/fork-me-on-github-retina-ribbons/right-green@2x.png"
+    alt="Fork me on GitHub">
+</a>
