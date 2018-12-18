@@ -336,3 +336,7 @@ twitter.com##.js-moments-tab.moments
 
 ! osm welcome
 www.openstreetmap.org##.visible.welcome
+
+! Opencollective sponsor list on Github readmes
+! Annoying non-transparent background if using dark theme
+github.com##[href^="https://opencollective.com"][href*="/sponsor/"]:has(img)
