@@ -17,7 +17,7 @@ duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi
 ! google translate - translate page fix
 translate.google.com###gba
 
-! Sports on is.fi
+! Categories I don't care about
 www.is.fi##[href^="/ampumahiihto"]
 www.is.fi##[href^="/makihyppy"]
 www.is.fi##[href^="/urheilu"]
@@ -47,6 +47,8 @@ www.iltalehti.fi##.article-list > * > [href^="/rakkausjaseksiartikkelit/"]
 www.iltalehti.fi##.article-list > * > [href^="/nhl/"]
 www.iltalehti.fi##.article-list > * > [href^="/talviurheilu/"]
 www.iltalehti.fi##.article-list > * > [href^="/viihde"]
+
+www.is.fi##li > [href^="/kuninkaalliset/"]
 
 ! valikko
 www.is.fi##.desktop.level-one > .item-level-one.has-subs.sports
