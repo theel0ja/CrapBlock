@@ -6,7 +6,6 @@
 ! Blocks clickbait etc. shit that I personally don't want.
 
 ! upstream
-! TODO: add finnish-easylist-addition annoyances
 !#include experimental.txt
 
 ! native ads in ddg results

@@ -2,6 +2,8 @@
 ! Title: CrapBlock Annoyances
 ! Expires: 12 hours
 ! Homepage: https://crapblock.theel0ja.info/
+! 
+! uBlock Origin/AdGuard/NanoBlocker only!
 !
 ! upstream
 ! TODO: add finnish-easylist-addition annoyances
