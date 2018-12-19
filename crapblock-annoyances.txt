@@ -308,6 +308,7 @@ www.theguardian.com##.contributions__epic
 ! other
 ||adblock.keweon.center^
 ||keweon.center^
+@@sec.keweon.center/dns-query
 @@||buttons.github.io/buttons.js$domain=github.io
 
 ! Stack Overflow teams
