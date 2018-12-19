@@ -13,10 +13,13 @@ Blocks crap on websites
 <!-- * [Finnish Annoyance List](https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt) (`https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt`)
   * <a href="abp:subscribe?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt&title=Finnish Annoyance List&requiresLocation=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-annoyance-list/master/Finnish_annoyances.txt">Install list</a> -->
 
-## Suggestions
+## Required
 
 * [uBlock Origin](https://github.com/gorhill/uBlock) ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Opera](https://addons.opera.com/en/extensions/details/ublock/), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://www.microsoft.com/fi-fi/p/ublock-origin/9nblggh444l4?activetab=pivot:overviewtab), [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3))
 * <a href="abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Anti-Cookie List&requiresLocation=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt">Fanboy's Cookiemonster list</a>
+
+## Suggestions
+
 * <a href="abp:subscribe?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt&title=Finnish Easylist Addition&requires_location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt">Adblock List for Finland</a> ([repo](https://github.com/theel0ja/finnish-easylist-addition))
 
 ## More
