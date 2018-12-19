@@ -347,3 +347,6 @@ github.com##[href^="https://opencollective.com"][href*="/sponsor/"]:has(img)
 @@||marketo.net$domain=about.gitlab.com
 ! inside iframe so domain is marketo.com:
 @@marketo.com$domain=marketo.com
+
+! unbreak icons on gitlab.com
+@@*$generichide,domain=gitlab.com|gitlab.lelux.fi
