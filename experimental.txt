@@ -11,3 +11,8 @@ www.is.fi##.r-loading-indicator
 www.verkkouutiset.fi##.exclusive.featured-post:has-text(Kirjautumalla saat enemmän)
 ! vastuullista journalismia
 www.verkkouutiset.fi##.sidebar-width.gray:has([src*="vastuullistajournalismia"])
+
+! Unblock Facebook comments on Verkkouutiset
+@@||connect.facebook.net$domain=www.verkkouutiset.fi
+@@||facebook.com/connect$domain=www.verkkouutiset.fi
+@@||facebook.com/plugins/comments.php$domain=www.verkkouutiset.fi
