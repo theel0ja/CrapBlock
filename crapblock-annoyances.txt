@@ -359,3 +359,7 @@ github.com##[href^="https://opencollective.com"][href*="/sponsor/"]:has(img)
 hive.co#@#[data-cookie-id]
 @@||facebook.net$domain=hive.co
 @@||facebook.com$domain=hive.co
+
+! bloomberg paywall&share
+bloomberg.com##.share-article-button
+bloomberg.com###paywall-banner
