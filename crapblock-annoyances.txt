@@ -350,3 +350,7 @@ github.com##[href^="https://opencollective.com"][href*="/sponsor/"]:has(img)
 
 ! unbreak icons on gitlab.com
 @@*$generichide,domain=gitlab.com|gitlab.lelux.fi|git.synz.io
+
+! unblock twitter timelines
+#@#.twitter-timeline
+@@||twitter.com/js/timeline.$third-party,script
