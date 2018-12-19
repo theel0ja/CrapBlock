@@ -363,3 +363,9 @@ hive.co#@#[data-cookie-id]
 ! bloomberg paywall&share
 bloomberg.com##.share-article-button
 bloomberg.com###paywall-banner
+
+! rutracker
+||rutracker.org/iframe/MG-bottom.html$subdocument
+
+! deezloader
+##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
