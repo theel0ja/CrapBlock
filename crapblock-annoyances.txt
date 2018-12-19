@@ -339,3 +339,9 @@ www.openstreetmap.org##.visible.welcome
 ! Opencollective sponsor list on Github readmes
 ! Annoying non-transparent background if using dark theme
 github.com##[href^="https://opencollective.com"][href*="/sponsor/"]:has(img)
+
+! unbreak https://about.gitlab.com/company/preference-center/
+@@||marketo.com$domain=about.gitlab.com
+@@||marketo.net$domain=about.gitlab.com
+! inside iframe so domain is marketo.com:
+@@marketo.com$domain=marketo.com
