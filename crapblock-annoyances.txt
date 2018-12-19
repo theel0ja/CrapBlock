@@ -369,3 +369,6 @@ bloomberg.com###paywall-banner
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
+
+! qz.com cookie message
+qz.com##._07fe7:has-text(Please read our privacy policy.)
