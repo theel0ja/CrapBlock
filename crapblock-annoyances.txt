@@ -193,6 +193,9 @@ www.startpage.com##.search-item.card.promotion:has-text(It's your data)
 @@||slack-edge.com/*/img/services/$image
 @@||slack-edge.com/*/marketing/img/$image
 
+! some article thumbnails have "instagram" in the url
+@@cbsistatic.com/img/*instagram.jpg$domain=cnet.com
+
 ! Yle.fi - Block newsletter on frontpage
 yle.fi##DIV[class^=TextBanner]:has(DIV[class^=SubscriptionForm__container__]:has-text(yle.fi-uutiskirje))
 
