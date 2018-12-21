@@ -376,3 +376,10 @@ bloomberg.com###paywall-banner
 
 ! qz.com cookie message
 qz.com##._07fe7:has-text(Please read our privacy policy.)
+
+! ui cleanup
+www.gsmarena.com###cdn-hosting
+gsmarena.com/w/css/maxcdn.gif
+
+! tracking
+gsmarena.com/counter-js.php3
