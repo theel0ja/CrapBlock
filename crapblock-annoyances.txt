@@ -386,3 +386,6 @@ gsmarena.com/w/css/maxcdn.gif
 
 ! tracking
 gsmarena.com/counter-js.php3
+
+! "You might like" on newssite
+indianexpress.com##aside.o-story-content__related:has-text(You might like)
