@@ -15,3 +15,6 @@ twitter.com##.roaming-module.module.Footer:has(.copyright.Footer-copyright.Foote
 
 ! Ad links in the "profile picture dropdown menu"
 twitter.com##.is-autoCentered.is-forceRight.dropdown-menu--rightAlign.dropdown-menu.DashUserDropdown > * > * > [href^="https://ads.twitter.com/"]
+
+! Worldwide trends
+twitter.com##.trends.Trends.module:has-text(Worldwide trends)
