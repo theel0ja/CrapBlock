@@ -315,6 +315,7 @@ www.theguardian.com##.contributions__epic
 ||adblock.keweon.center^
 ||keweon.center^
 @@sec.keweon.center/dns-query
+/favicon.ico$domain=n.kapsi.fi
 @@||buttons.github.io/buttons.js$domain=github.io
 
 ! Stack Overflow teams
@@ -375,6 +376,15 @@ bloomberg.com###paywall-banner
 
 ! rutracker
 ||rutracker.org/iframe/MG-bottom.html$subdocument
+rutracker.org###bn-idx-marathonbet
+rutracker.org###bn-idx-3
+rutracker.org###bn-idx-r1
+rutracker.org##.vMiddle
+rutracker.org##.w100.tCenter
+rutracker.org##[id^="bn-idx-"]
+
+! social media container
+rutracker.org###soc-container
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -391,3 +401,6 @@ gsmarena.com/counter-js.php3
 
 ! "You might like" on newssite
 indianexpress.com##aside.o-story-content__related:has-text(You might like)
+
+! Ad containers
+www.howtogeek.com###div-thetop1:has(script[src*="/pagead/js/"])
