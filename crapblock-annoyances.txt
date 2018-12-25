@@ -404,3 +404,6 @@ indianexpress.com##aside.o-story-content__related:has-text(You might like)
 
 ! Ad containers
 www.howtogeek.com###div-thetop1:has(script[src*="/pagead/js/"])
+
+! Annoying trial ad
+mailbox.org##.block.nav-testen.mod_customnav:has-text(Free):has-text(30-day):has-text(trial)
