@@ -383,8 +383,9 @@ rutracker.org##.vMiddle
 rutracker.org##.w100.tCenter
 rutracker.org##[id^="bn-idx-"]
 
-! social media container
+! social media containers
 rutracker.org###soc-container
+mashable.com##.follow-channel
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -404,6 +405,13 @@ indianexpress.com##aside.o-story-content__related:has-text(You might like)
 
 ! Ad containers
 www.howtogeek.com###div-thetop1:has(script[src*="/pagead/js/"])
+androidfilehost.com##.page-file-thanks.page-container.download-file.row > .col-md-4:has-text(advertisement:)
+mt-tech.fi###custom_html-8:has(.widget-title:has-text(Ad:))
+
 
 ! Annoying trial ad
 mailbox.org##.block.nav-testen.mod_customnav:has-text(Free):has-text(30-day):has-text(trial)
+
+! false positives on youtube channel about pages
+www.youtube.com#@#a[title="Instagram"]
+
