@@ -446,6 +446,7 @@ www.wired.co.uk##.c-top-stories-lazy-load__spinner
 ! Ads
 www.tecmint.com###quickiebarpro
 linuxize.com##.block.affiliate
+www.namepros.com##.sidebar > * > [href^="https://www.escrow.com/"]
 
 ! Nags
 www.whonix.org##.alert:has-text(Whonix requires payments to stay alive.)
