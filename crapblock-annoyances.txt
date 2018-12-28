@@ -461,3 +461,19 @@ about.me##.anonymous_ledge_view-scope-1RSnD
 
 ! social media, sponsors, ads
 linuxmint.com###sidebar
+
+! ifttt
+ifttt.com#@#img[title="YouTube"]
+ifttt.com#@#img[title="Twitter"]
+ifttt.com#@#img[title="Instagram"]
+ifttt.com#@#img[title="Facebook"]
+ifttt.com#@#img[title="Pinterest"]
+ifttt.com#@#img[title="Flickr"]
+ifttt.com#@#img[title="LinkedIn"]
+
+ifttt.com#@#img[alt="Flickr"]
+ifttt.com#@#img[alt="Twitter"]
+ifttt.com#@#img[alt="Pinterest"]
+ifttt.com#@#img[alt="Facebook"]
+ifttt.com#@#img[alt="Instagram"]
+ifttt.com#@#img[alt="LinkedIn"]
