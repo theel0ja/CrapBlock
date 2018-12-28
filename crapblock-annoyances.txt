@@ -193,6 +193,10 @@ www.startpage.com##.search-item.card.promotion:has-text(It's your data)
 @@||slack-edge.com/*/img/services/$image
 @@||slack-edge.com/*/marketing/img/$image
 
+! Few other links
+@@toneden.io/production/images/link-services/$image
+@@proxy.duckduckgo.com/ip3/$image
+
 ! some article thumbnails have "instagram" in the url
 @@cbsistatic.com/img/*instagram.jpg$domain=cnet.com
 
@@ -382,6 +386,7 @@ rutracker.org###bn-idx-r1
 rutracker.org##.vMiddle
 rutracker.org##.w100.tCenter
 rutracker.org##[id^="bn-idx-"]
+rutracker.org##[href="https://rublacklist.net/rutracker_redirect"]
 
 ! social media containers
 rutracker.org###soc-container
@@ -415,3 +420,43 @@ mailbox.org##.block.nav-testen.mod_customnav:has-text(Free):has-text(30-day):has
 ! false positives on youtube channel about pages
 www.youtube.com#@#a[title="Instagram"]
 
+! ad containers
+! 12/25/2018, 1:55:41 PM https://www.foobar2000.org/
+www.foobar2000.org##.padding > table:has(caption:has-text(advertisement))
+! 12/25/2018, 1:56:35 PM https://www.foobar2000.org/download
+www.foobar2000.org##.release_info > table:has(caption:has-text(advertisement))
+
+! annoying logo
+ghacks.net/wp-content/uploads/2005/10/ghacks-technology-news.jpg$domain=www.ghacks.net,image
+www.ghacks.net##div > div.snippet-label-img:has-text(Logo)
+
+! Cards at video end on youtube
+youtube.com#@#.ytp-ce-element
+
+! Youtube Instagram links
+
+
+! Annoying icon
+www.wired.co.uk##.c-top-stories-lazy-load__spinner
+
+! Social media
+||blog.linuxmint.com/pictures/twitter.png$image
+||blog.linuxmint.com/pictures/facebook.png$image
+
+! Ads
+www.tecmint.com###quickiebarpro
+linuxize.com##.block.affiliate
+
+! Nags
+www.whonix.org##.alert:has-text(Whonix requires payments to stay alive.)
+||www.whonix.org/w/images/d/d0/Donate50.png$image
+www.whonix.org###localNotice:has-text(Whonix requires money to stay alive.)
+
+! Newsletter
+robertheaton.com##.blogpost.post > section:has(#mc-embedded-subscribe-form)
+
+! about.me advertisement
+about.me##.anonymous_ledge_view-scope-1RSnD
+
+! social media, sponsors, ads
+linuxmint.com###sidebar
