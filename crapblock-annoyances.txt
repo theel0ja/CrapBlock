@@ -330,6 +330,7 @@ www.theguardian.com##.contributions__epic
 ||adblock.keweon.center^
 ||keweon.center^
 @@sec.keweon.center/dns-query
+pki.keweon.center/certs/*.crt
 
 /favicon.ico$domain=n.kapsi.fi
 @@||buttons.github.io/buttons.js$domain=github.io
