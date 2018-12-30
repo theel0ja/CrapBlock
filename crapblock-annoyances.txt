@@ -265,6 +265,11 @@ userstyles.org##.android_button_banner
 userstyles.org###top_android_button:has-text(Stylish on Android)
 userstyles.org##div.us-stylecard--short:has(.fallbackDiv:has(.fallbackImg[src*="/ui/images/280x294.png"]))
 userstyles.org##.overlay_background
+userstyles.org##.android_walking
+userstyles.org##.footsteps
+userstyles.org##.walking
+userstyles.org##[href^="/categories/android"]
+||userstyles.org/ui/images/icons/android*$image,important
 
 ! Stylish - Spyware risk
 ! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
@@ -279,14 +284,20 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ||chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe^$document
 ||addons.opera.com/en/extensions/details/stylish-for-opera/^$document
 
-! NordVPN ads
+! VPN ads
 ##[href*="go.nordvpn.net"]
+##a[href^="https://www.get-express-vpn.com/"]
+||dnsleaktest.com/img/ivpn-sponsor.png$image
+##a[href*="NordVPN.com"]
 
 ! PIA banners
 /pia_banner.$image
 
 ! Power.fi - Newsletter
 power.fi##.ng-scope.notification-newsletter
+
+! Linode.com - Newsletter
+www.linode.com##.library-signup > .email-signup
 
 ! Ads on portforward.com
 portforward.com##[href="https://portforward.com/store/pfconfig.cgi"]
@@ -319,8 +330,11 @@ www.theguardian.com##.contributions__epic
 ||adblock.keweon.center^
 ||keweon.center^
 @@sec.keweon.center/dns-query
+
 /favicon.ico$domain=n.kapsi.fi
 @@||buttons.github.io/buttons.js$domain=github.io
+
+www.is.fi##.ad-contact
 
 ! Stack Overflow teams
 stackoverflow.com##li > .nav-links:has-text(Teams):has(a[href*="/teams"])
@@ -333,6 +347,7 @@ directory.fsf.org##div#.client-js:style(height: auto;)
 
 ! fsf website fundraiser
 www.fsf.org##iframe[src="//static1p.fsf.org/nosvn/banners/2018fundraiser/"]
+www.defectivebydesign.org##iframe[src="//static.defectivebydesign.org/nosvn/banners/2018fundraiser/"]
 
 ! annoying popup on fsf.org and other FSF sites
 ###fsf-modal-window-elem-container
@@ -391,6 +406,10 @@ rutracker.org##[href="https://rublacklist.net/rutracker_redirect"]
 ! social media containers
 rutracker.org###soc-container
 mashable.com##.follow-channel
+www.deepl.com##.dl_footer__social
+itsfoss.com##.ss-share-sidebar-total-shares.ss-total-shares.ss-total-counter
+itsfoss.com##.ss-inline-share-content
+itsfoss.com##.ss-social-share-label
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -477,3 +496,37 @@ ifttt.com#@#img[alt="Pinterest"]
 ifttt.com#@#img[alt="Facebook"]
 ifttt.com#@#img[alt="Instagram"]
 ifttt.com#@#img[alt="LinkedIn"]
+
+! Noscript complaints
+ask.fedoraproject.org###no-javascript
+
+! Wikipedia donate nag
+en.wikipedia.org##[href^="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector"]
+en.wikipedia.org##[href="//shop.wikimedia.org"]
+
+! Registration nags
+www.discogs.com##.gs_container_column.homepage-registration
+
+! Share buttons
+! a2a = addtoany.com
+www.datacenterdynamics.com##div.a2a_default_style.a2a_kit_size_32.a2a_kit.a2a
+
+! Hinta.fi ads
+hinta.fi##.hv-wrapper-left-i > [href*=".php"]:has(img)
+
+! "Got a confidential news tip" widget inside news articles
+||www.nytimes.com/interactive/2018/admin/100000004799217.embedded.html$subdocument
+
+! who.is
+who.is##.col-md-4 > div.row:nth-of-type(2) > .col-md-12:has(.text-centered.queryResponseHeaderSide:has-text(Suggested Domains for ))
+who.is##center:has(img[src="https://d7l9sro0h1dem.cloudfront.net/results_page_top_logo.jpg"]):has([href="https://www.name.com/redirect/whodotis/sidebar-top"])
+who.is##center:has(img[src="https://d7l9sro0h1dem.cloudfront.net/results_page_bottom_logo.jpg"]):has([href="https://www.name.com/redirect/whodotis/sidebar-bottom"])
+who.is###domainAvailabilityPowerBarProgress
+who.is##.teaser-bar.container-fluid:has([href^="http://www.us3.list-manage.com/subscribe"])
+
+! Posti tracking - "please download our app"
+||www.posti.fi/henkiloasiakkaat/seuranta/assets/images/adwidget-placeholder.jpg$image
+www.posti.fi##.adwidget-placeholder
+
+! Looks ugly with dark theme
+translate.google.com###gb
