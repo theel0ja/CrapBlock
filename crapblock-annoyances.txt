@@ -530,3 +530,8 @@ www.posti.fi##.adwidget-placeholder
 
 ! Looks ugly with dark theme
 translate.google.com###gb
+
+! time.is
+time.is##.adjustright.faded.tr.noprint > .tr.noprint:has-text(Share this page)
+time.is###restaurants
+time.is###follow_app
