@@ -22,9 +22,13 @@ tomshardware.com/news/*.html?ajax=1$xhr,domain=tomshardware.com
 
 ! Subscription nags
 www.wsj.com###cx-candybarhp
+www.wsj.com###cx-candybar
 www.wsj.com##[href*="https://buy.wsj.com"]
 www.wsj.com###cx-mktg-tile:has(a[href*="https://buy.wsj.com"])
 www.wsj.com##[class^="style__subscribe"]
+
+! Popup
+www.wsj.com###cx-scrim-overlay
 
 ! "Sponsored links"
 www.wsj.com##.bing-native-ad
