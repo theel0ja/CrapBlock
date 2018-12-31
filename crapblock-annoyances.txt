@@ -566,3 +566,12 @@ translate.google.com###gb
 time.is##.adjustright.faded.tr.noprint > .tr.noprint:has-text(Share this page)
 time.is###restaurants
 time.is###follow_app
+
+! Medium.com - Whitelist useful items
+medium.com,hackernoon.com#@#.svgIcon--twitterFilled
+medium.com,hackernoon.com#@#.svgIcon--facebookFilled
+# Follow person:
+medium.com,hackernoon.com#@#.js-followState
+
+# has clap&bookmark buttons:
+medium.com,hackernoon.com#@#.js-postShareWidget
