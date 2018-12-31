@@ -20,6 +20,14 @@ tomshardware.com/news/*.html?ajax=1$xhr,domain=tomshardware.com
 
 !----OTHER----
 
+! Subscription nags
+www.wsj.com###cx-candybarhp
+www.wsj.com##[href*="https://buy.wsj.com"]
+www.wsj.com###cx-mktg-tile:has(a[href*="https://buy.wsj.com"])
+www.wsj.com##[class^="style__subscribe"]
+
+! "Sponsored links"
+www.wsj.com##.bing-native-ad
 
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
