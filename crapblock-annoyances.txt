@@ -17,6 +17,9 @@
 ! https://www.tomshardware.com/news/nvidia-class-action-lawsuit-cryptocurrency-amd,38304.html
 tomshardware.com/news/*.html?ajax=1$xhr,domain=tomshardware.com
 
+! https://www.forbes.com/sites/gordonkelly/2018/12/30/samsung-galaxy-s10-plus-lite-upgrade-design-display-size-release-date-price-cost/
+forbes.com/forbesapi/content/uri.json?*uri=*$xhr,domain=forbes.com
+forbes.com/forbesapi/stats/topStories.json$xhr,domain=forbes.com
 
 !----OTHER----
 
@@ -32,6 +35,10 @@ www.wsj.com###cx-scrim-overlay
 
 ! "Sponsored links"
 www.wsj.com##.bing-native-ad
+
+! Stats
+forbes.com/statsapi
+forbes.com/consent/?toURL=https://www.forbes.com/favicon.ico$image
 
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
