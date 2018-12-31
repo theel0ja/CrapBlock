@@ -10,6 +10,17 @@
 !#include anti-adblock.txt
 !#include twitter-cleanup.txt
 
+!---INFINITE SCROLLING NEWS SITES----
+! Prevent loading news articles when scrolling to bottom,
+! also known as "lazy loading"/"infinite scrolling"
+
+! https://www.tomshardware.com/news/nvidia-class-action-lawsuit-cryptocurrency-amd,38304.html
+tomshardware.com/news/*.html?ajax=1$xhr,domain=tomshardware.com
+
+
+!----OTHER----
+
+
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
 ##div.ytp-pause-overlay
