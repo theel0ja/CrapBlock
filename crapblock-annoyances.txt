@@ -40,6 +40,9 @@ www.wsj.com##.bing-native-ad
 forbes.com/statsapi
 forbes.com/consent/?toURL=https://www.forbes.com/favicon.ico$image
 
+! Snapchat tracking
+||sc-static.net/scevent.min.js
+
 ! YouTube embed pause overlays
 ! ( https://twitter.com/byuu_san/status/873948637075828737?lang=en )
 ##div.ytp-pause-overlay
