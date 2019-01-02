@@ -27,6 +27,13 @@ forbes.com/forbesapi/stats/topStories.json$xhr,domain=forbes.com
 ! https://venturebeat.com/2018/12/20/firefox-focus-gets-enhanced-tracking-protection-and-googles-safe-browsing-service/
 ||venturebeat.com/infinite$xhr
 
+! timesofindia.indiatimes.com, gadgetsnow.com etc.
+! https://www.gadgetsnow.com/pcs/three-years-after-launch-microsoft-windows-10-surpasses-windows-7-in-market-share/articleshow/67352912.cms
+/articleshowajax/*.cms?$xhr
+
+! https://www.bustle.com/p/11-organization-apps-you-should-download-before-2019-14694448
+graph.bustle.com/?query=*&variables=*like*$xhr
+
 !----OTHER----
 
 ! Subscription nags
