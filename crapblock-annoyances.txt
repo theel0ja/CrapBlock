@@ -24,6 +24,9 @@ forbes.com/forbesapi/stats/topStories.json$xhr,domain=forbes.com
 ! https://www.techwalla.com/articles/how-to-add-new-fonts-to-a-mac
 ||techwalla.com/infinite-scroll/$xhr
 
+! https://venturebeat.com/2018/12/20/firefox-focus-gets-enhanced-tracking-protection-and-googles-safe-browsing-service/
+||venturebeat.com/infinite$xhr
+
 !----OTHER----
 
 ! Subscription nags
