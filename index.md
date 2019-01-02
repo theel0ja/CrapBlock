@@ -1,11 +1,10 @@
 # CrapBlock
 
-Blocks crap on websites
+Blocks crap such as infinite scrolling on websites
+
 ## Lists
 * [Annoyances](https://crapblock.theel0ja.info/crapblock-annoyances.txt) (`https://crapblock.theel0ja.info/crapblock-annoyances.txt`)
   * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt">Install list</a>
-* [Twitter Cleanup](https://crapblock.theel0ja.info/twitter-cleanup.txt) (`https://crapblock.theel0ja.info/twitter-cleanup.txt`)
-  * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/twitter-cleanup.txt&title=Twitter Cleanup&requiresLocation=https://crapblock.theel0ja.info/twitter-cleanup.txt">Install list</a>
 * [Block Google Fonts](https://crapblock.theel0ja.info/block-googlefonts.txt) (`https://crapblock.theel0ja.info/block-googlefonts.txt`)
   * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/block-googlefonts.txt&title=Block Google Fonts&requiresLocation=https://crapblock.theel0ja.info/block-googlefonts.txt">Install list</a>
   * [Install Google Fonts locally](https://github.com/theel0ja/googlefonts-loader)
