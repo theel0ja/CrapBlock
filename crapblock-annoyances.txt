@@ -21,6 +21,9 @@ tomshardware.com/news/*.html?ajax=1$xhr,domain=tomshardware.com
 forbes.com/forbesapi/content/uri.json?*uri=*$xhr,domain=forbes.com
 forbes.com/forbesapi/stats/topStories.json$xhr,domain=forbes.com
 
+! https://www.techwalla.com/articles/how-to-add-new-fonts-to-a-mac
+||techwalla.com/infinite-scroll/$xhr
+
 !----OTHER----
 
 ! Subscription nags
