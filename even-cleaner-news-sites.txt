@@ -1,0 +1,18 @@
+[Adblock Plus 2.0]
+! Title: Even cleaner news sites
+! Expires: 12 hours
+! Homepage: https://crapblock.theel0ja.info/
+!
+! Removes "Related", "Read next" etc. bloat from news sites
+
+! mtvuutiset.fi
+www.mtvuutiset.fi##.read-more-link-on-desktop.read-more-desktop.leiki-news-feed.component.news-feed
+www.mtvuutiset.fi##.stickyWrapper
+www.mtvuutiset.fi###fullWidthBottom
+www.mtvuutiset.fi##.latest-listing-time-first
+www.mtvuutiset.fi##.pollo-logo
+www.mtvuutiset.fi##.show-forward-arrow.topics-menu-taglist-container
+www.mtvuutiset.fi##.component-leiki.component
+www.mtvuutiset.fi##.article-tags
+www.mtvuutiset.fi##.navigation-toggles
+www.mtvuutiset.fi##.site-footer-mtvuutiset.site-footer.component
