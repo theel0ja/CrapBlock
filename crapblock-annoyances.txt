@@ -34,6 +34,9 @@ forbes.com/forbesapi/stats/topStories.json$xhr,domain=forbes.com
 ! https://www.bustle.com/p/11-organization-apps-you-should-download-before-2019-14694448
 graph.bustle.com/?query=*&variables=*like*$xhr
 
+! https://motherboard.vice.com/en_us/article/zmd9a5/tim-cook-to-investors-people-bought-fewer-new-iphones-because-they-repaired-their-old-ones
+vice.com/api/v1/related/articles/*?*&per_page=5
+
 !----OTHER----
 
 ! Subscription nags
