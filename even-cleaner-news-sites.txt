@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Even cleaner news sites
+! Title: 🧹 Even cleaner news sites
 ! Expires: 12 hours
 ! Homepage: https://crapblock.theel0ja.info/
 !
