@@ -67,6 +67,8 @@ forbes.com/consent/?toURL=https://www.forbes.com/favicon.ico$image
 ##.ytp-button.ytp-watch-later-button
 ##.ytp-share-button.ytp-button
 
+##.ytp-watch-later-button
+
 ! Google Translate "Join the translate community"
 translate.google.com###t-new-user > .cp-promo-c-
 translate.google.com###gt-promo-lr
@@ -589,8 +591,17 @@ time.is###follow_app
 ! Medium.com - Whitelist useful items
 medium.com,hackernoon.com#@#.svgIcon--twitterFilled
 medium.com,hackernoon.com#@#.svgIcon--facebookFilled
-# Follow person:
+! Follow person:
 medium.com,hackernoon.com#@#.js-followState
-
-# has clap&bookmark buttons:
+! has clap&bookmark buttons:
 medium.com,hackernoon.com#@#.js-postShareWidget
+
+! Videoly Tracking
+! https://github.com/easylist/easylist/issues/2594
+dapi.videoly.co/*/event/
+
+! securityheaders sponsors
+securityheaders.com##div.reportSection:has(.reportTitle:has-text(Other Services))
+securityheaders.com##h3:has-text(Sponsored by):has([href^="https://www.sophos.com/"])
+securityheaders.com###sponsor-footer
+
