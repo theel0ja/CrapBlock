@@ -589,12 +589,12 @@ time.is###restaurants
 time.is###follow_app
 
 ! Medium.com - Whitelist useful items
-medium.com,hackernoon.com#@#.svgIcon--twitterFilled
-medium.com,hackernoon.com#@#.svgIcon--facebookFilled
+medium.com,medium.freecodecamp.org,hackernoon.com#@#.svgIcon--twitterFilled
+medium.com,medium.freecodecamp.org,hackernoon.com#@#.svgIcon--facebookFilled
 ! Follow person:
-medium.com,hackernoon.com#@#.js-followState
+medium.com,medium.freecodecamp.org,hackernoon.com#@#.js-followState
 ! has clap&bookmark buttons:
-medium.com,hackernoon.com#@#.js-postShareWidget
+medium.com,medium.freecodecamp.org,hackernoon.com#@#.js-postShareWidget
 
 ! Videoly Tracking
 ! https://github.com/easylist/easylist/issues/2594
