@@ -354,7 +354,7 @@ www.linode.com##.library-signup > .email-signup
 portforward.com##[href="https://portforward.com/store/pfconfig.cgi"]
 
 ! Unbreak independent.co.uk
-@@cdn.ampproject.org/*$domain=independent.co.uk
+@@cdn.ampproject.org/*$domain=independent.co.uk,draugeros.ml
 
 ! facebook
 facebook.com###u_0_f:has-text(See more of ):has-text( on Facebook)
