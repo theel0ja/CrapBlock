@@ -37,6 +37,9 @@ graph.bustle.com/?query=*&variables=*like*$xhr
 ! https://motherboard.vice.com/en_us/article/zmd9a5/tim-cook-to-investors-people-bought-fewer-new-iphones-because-they-repaired-their-old-ones
 vice.com/api/v1/related/articles/*?*&per_page=5
 
+! https://thenextweb.com/dd/2019/01/05/github-now-gives-free-users-unlimited-private-repositories/
+thenextweb.com/wp-content/themes/cyberdelia/ajax/partials/article-sheet.php?frstPostId=*&*&_=*
+
 !----OTHER----
 
 ! SSL Cert seals
