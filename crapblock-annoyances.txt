@@ -123,6 +123,8 @@ kokeile.il.fi##.parade-ad-container
 www.wunderground.com##.pane-wu-fullscreenweather-ad-box-atf
 ilmailukartta.fi##.ad
 www.ghacks.net##.ghacks_ad_code
+thomashunter.name###carbon-wrapper
+www.techhive.com###articleLeaderboardWrapper
 
 ! Disqus junk
 ##li.disqus-footer__item.install
@@ -240,6 +242,9 @@ duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="Facebook"]
 duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="Instagram"]
 duckduckgo.com,3g2upl4pq6kufc4m.onion#@#a[title="YouTube"]
 
+! DDG - Please downlooad our app
+duckduckgo.com##[href="https://duckduckgo.com/app"]
+
 ! Startpage.com - "How we protect you"
 www.startpage.com##.hero-search__learn-more
 www.startpage.com###more-content
@@ -327,7 +332,9 @@ userstyles.org##.android_walking
 userstyles.org##.footsteps
 userstyles.org##.walking
 userstyles.org##[href^="/categories/android"]
+userstyles.org##.android_button_button
 ||userstyles.org/ui/images/icons/android*$image,important
+userstyles.org###paypal_form
 
 ! Stylish - Spyware risk
 ! https://arstechnica.com/information-technology/2018/07/stylish-extension-with-2m-downloads-banished-for-tracking-every-site-visit/
@@ -603,6 +610,9 @@ medium.com,medium.freecodecamp.org,hackernoon.com#@#.js-followState
 ! has clap&bookmark buttons:
 medium.com,medium.freecodecamp.org,hackernoon.com#@#.js-postShareWidget
 
+! Subscribe button
+medium.com##a[href="https://medium.com/membership?source=upgrade_membership---nav_full"]
+
 ! Videoly Tracking
 ! https://github.com/easylist/easylist/issues/2594
 dapi.videoly.co/*/event/
@@ -612,3 +622,51 @@ securityheaders.com##div.reportSection:has(.reportTitle:has-text(Other Services)
 securityheaders.com##h3:has-text(Sponsored by):has([href^="https://www.sophos.com/"])
 securityheaders.com###sponsor-footer
 
+! MACOBSERVER
+
+! Annoying power button logo at macobserver.com
+||www.macobserver.com/wp-content/themes/observer/assets/images/power.png$image
+
+! MACOBSERVER SIDEBAR
+
+www.macobserver.com##.stock-widget.widget
+! :has-text(AAPL Stock Price)
+
+www.macobserver.com###display_ad_widget-11
+!:has-text(TMO Deals)
+
+www.macobserver.com###display_ad_widget-10
+!:has-text(Sponsors)
+
+www.macobserver.com###display_ad_widget-8
+!:has-text(TMO Weekly Sponsor)
+
+www.macobserver.com###display_ad_widget-9
+!:has-text(Sponsors)
+
+www.macobserver.com###display_ad_widget-12
+!:has-text(Reader Specials)
+
+www.macobserver.com###custom_html-2:has-text(Support TMO)
+
+
+! NEWSLETTERS
+www.techhive.com##[href="http://www.techhive.com/newsletters/signup.html"]
+www.macobserver.com##.post-newsletter:has(#tmo-newsletter-form)
+
+! https://www.techhive.com/article/3330692/streaming-services/cord-cutting-in-2019-what-to-expect-in-a-pivotal-year.html
+www.techhive.com##.promoBannerFrame
+www.techhive.com###amazon-bottom-widget
+www.techhive.com##[href^="https://www.pcworld.com/couponcodes"]
+! buy [insert product name]
+www.techhive.com##aside.emo-sb.emo
+
+
+! Mozilla annoyances
+foundation.mozilla.org##.donate-modal-wrapper
+developer.mozilla.org###contribution-popover-container
+www.mozilla.org##.notification-banner:has-text(Your Firefox is out-of-date.)
+
+! "Deals"
+www.ghacks.net##[href="https://deals.ghacks.net/"]
+www.androidpolice.com###aprecentpostswidget-2:has(.section-header:has-text(Latest Deals))
