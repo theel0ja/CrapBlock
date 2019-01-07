@@ -16,3 +16,7 @@ www.mtvuutiset.fi##.component-leiki.component
 www.mtvuutiset.fi##.article-tags
 www.mtvuutiset.fi##.navigation-toggles
 www.mtvuutiset.fi##.site-footer-mtvuutiset.site-footer.component
+
+! www.ibtimes.co.uk
+! Sidebar with videos, "Read next" etc. useless crap
+www.ibtimes.co.uk##.hidden-print.side-contents.card

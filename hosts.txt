@@ -2,3 +2,4 @@
 
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 cdn.cookielaw.org 
+0.0.0.0 sdk.privacy-center.org
