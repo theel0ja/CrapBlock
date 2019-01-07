@@ -704,3 +704,10 @@ console.scaleway.com##.e1cu1im40.css-q919en-FloatingButton--FloatingButton
 @@||connect.facebook.net$domain=www.verkkouutiset.fi
 @@||facebook.com/connect$domain=www.verkkouutiset.fi
 @@||facebook.com/plugins/comments.php$domain=www.verkkouutiset.fi
+
+! Jetpack comment likes widget placeholder:
+##.comment-likes.comment-likes-widget-placeholder.likes-widget-placeholder
+! Required to see the non-placeholders: @@widgets.wp.com/likes/
+
+! Twitter widget top right corner (i)
+##a[href^="https://support.twitter.com/"][title="Twitter Ads info and privacy"]
