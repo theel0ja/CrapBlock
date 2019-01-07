@@ -122,6 +122,7 @@ www.lapinkansa.fi###yleisnosto_ajax-8 > .topic-item > .textarea-container > .mai
 kokeile.il.fi##.parade-ad-container
 www.wunderground.com##.pane-wu-fullscreenweather-ad-box-atf
 ilmailukartta.fi##.ad
+www.ghacks.net##.ghacks_ad_code
 
 ! Disqus junk
 ##li.disqus-footer__item.install
@@ -140,6 +141,12 @@ wilma.tnk.utu.fi##.QR-code.infos-block.panel
 
 ! EXPERIMENTAL reddit pixel (it fetches it even without JS!)
 reddit.com/*/pixel.png
+
+! Moat ads Reddit
+redditmedia.com/moat/
+
+! Error logger
+old.reddit.com/web/log/error.json
 
 ! Block Wikia cookie consent (ONLY WORKS WITH UBLOCK ORIGIN)
 ! https://github.com/ryanbr/fanboy-adblock/issues/572#issuecomment-428090691
