@@ -227,6 +227,8 @@ duckduckgo.com,3g2upl4pq6kufc4m.onion##.atb-banner
 
 ! DDG - Slide thing on the bottom
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.js-onboarding-ed.onboarding-ed
+duckduckgo.com/assets/onboarding/
+3g2upl4pq6kufc4m.onion/assets/onboarding/
 
 ! DDG - "Duck it!" when hovering the logo
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.logo_homepage__tt
@@ -670,3 +672,7 @@ www.mozilla.org##.notification-banner:has-text(Your Firefox is out-of-date.)
 ! "Deals"
 www.ghacks.net##[href="https://deals.ghacks.net/"]
 www.androidpolice.com###aprecentpostswidget-2:has(.section-header:has-text(Latest Deals))
+
+
+! TAKE OUR SURVEY
+nationalpost.com###utilitysettings-6:has-text(Share your feedback):has-text(Take our 60-second survey)
