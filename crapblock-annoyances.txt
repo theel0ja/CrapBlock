@@ -39,6 +39,14 @@ vice.com/api/v1/related/articles/*?*&per_page=5
 
 !----OTHER----
 
+! SSL Cert seals
+||seal.websecurity.norton.com
+||seal.godaddy.com
+||seal.globalsign.com
+##[href^="https://www.positivessl.com/trusted-ssl-site-seal.php"]
+/comodo_secure_seal_*.png
+www.ssl.com##[href^="https://www.ssl.com/site_seals/"]
+
 ! Subscription nags
 www.wsj.com###cx-candybarhp
 www.wsj.com###cx-candybar
@@ -676,3 +684,5 @@ www.androidpolice.com###aprecentpostswidget-2:has(.section-header:has-text(Lates
 
 ! TAKE OUR SURVEY
 nationalpost.com###utilitysettings-6:has-text(Share your feedback):has-text(Take our 60-second survey)
+
+imgur.com##.post-action-tags
