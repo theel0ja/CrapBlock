@@ -699,3 +699,8 @@ torrentz2.eu###recent
 
 ! Give feedback
 console.scaleway.com##.e1cu1im40.css-q919en-FloatingButton--FloatingButton
+
+! Unblock Facebook comments on Verkkouutiset
+@@||connect.facebook.net$domain=www.verkkouutiset.fi
+@@||facebook.com/connect$domain=www.verkkouutiset.fi
+@@||facebook.com/plugins/comments.php$domain=www.verkkouutiset.fi

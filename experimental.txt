@@ -2,15 +2,10 @@
 
 ! youtube cosmetic
 ! height is 50% of current one
-www.youtube.com###masthead-positioner-height-offset:style(height: 56px !important
+www.youtube.com###masthead-positioner-height-offset:style(height: 56px !important)
 
 
 ! Verkkouutiset Plus nag
 www.verkkouutiset.fi##.exclusive.featured-post:has-text(Kirjautumalla saat enemmän)
 ! vastuullista journalismia
 www.verkkouutiset.fi##.sidebar-width.gray:has([src*="vastuullistajournalismia"])
-
-! Unblock Facebook comments on Verkkouutiset
-@@||connect.facebook.net$domain=www.verkkouutiset.fi
-@@||facebook.com/connect$domain=www.verkkouutiset.fi
-@@||facebook.com/plugins/comments.php$domain=www.verkkouutiset.fi
