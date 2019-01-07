@@ -486,6 +486,9 @@ www.deepl.com##.dl_footer__social
 itsfoss.com##.ss-share-sidebar-total-shares.ss-total-shares.ss-total-counter
 itsfoss.com##.ss-inline-share-content
 itsfoss.com##.ss-social-share-label
+about.gitlab.com##.article.blog > * > .social
+www.arabstoday.net##.newread-social
+fstoppers.com##.follow-fstoppers
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -617,8 +620,10 @@ medium.com,medium.freecodecamp.org,hackernoon.com#@#.svgIcon--twitterFilled
 medium.com,medium.freecodecamp.org,hackernoon.com#@#.svgIcon--facebookFilled
 ! Follow person:
 medium.com,medium.freecodecamp.org,hackernoon.com#@#.js-followState
-! has clap&bookmark buttons:
+! has clap buttons:
 medium.com,medium.freecodecamp.org,hackernoon.com#@#.js-postShareWidget
+! bookmark button:
+medium.com,medium.freecodecamp.org,hackernoon.com##.js-bookmarkButton.button--bookmark.button--withSvgIcon
 
 ! Subscribe button
 medium.com##a[href="https://medium.com/membership?source=upgrade_membership---nav_full"]
@@ -685,4 +690,12 @@ www.androidpolice.com###aprecentpostswidget-2:has(.section-header:has-text(Lates
 ! TAKE OUR SURVEY
 nationalpost.com###utilitysettings-6:has-text(Share your feedback):has-text(Take our 60-second survey)
 
+! MISC
 imgur.com##.post-action-tags
+lowendbox.com###menu > div.block  > div:has(a[href^="https://buysellads.com/"])
+gfycat.com##.iframe__bottom
+##.akismet_comment_form_privacy_notice
+torrentz2.eu###recent
+
+! Give feedback
+console.scaleway.com##.e1cu1im40.css-q919en-FloatingButton--FloatingButton

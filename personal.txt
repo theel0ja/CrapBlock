@@ -8,64 +8,59 @@
 ! upstream
 !#include experimental.txt
 
-! native ads in ddg results
-duckduckgo.com##.links_deep.links_main.result__body:has(a[href^="https://www.is.fi/mainos"])
-
-! crappy news sites in ddg news
-duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi/"])
-
 ! google translate - translate page fix
 translate.google.com###gba
 
-! Categories I don't care about
-www.is.fi##[href^="/ampumahiihto"]
-www.is.fi##[href^="/makihyppy"]
-www.is.fi##[href^="/urheilu"]
-www.is.fi##[href^="/jaakiekko"]
-www.is.fi##[href^="/maastohiihto"]
-www.is.fi##[href^="/nhl"]
-www.is.fi##[href^="/nyrkkeily"]
-www.is.fi##[href^="/viihde/"]
 
-www.is.fi##.most-popular > li:has([href^="/ampumahiihto"])
-www.is.fi##.most-popular > li:has([href^="/makihyppy"])
-www.is.fi##.most-popular > li:has([href^="/urheilu"])
-www.is.fi##.most-popular > li:has([href^="/jaakiekko"])
-www.is.fi##.most-popular > li:has([href^="/maastohiihto"])
-www.is.fi##.most-popular > li:has([href^="/nhl"])
-www.is.fi##.most-popular > li:has([href^="/nyrkkeily"])
-www.is.fi##.most-popular > li:has([href^="/viihde/"])
-
-www.iltalehti.fi##li:has([href="/tyylicom"])
-www.iltalehti.fi##li:has([href="/rakkausjaseksi"])
-www.iltalehti.fi##[href^="/rakkausjaseksi"]
-www.iltalehti.fi##[href^="/tyylicom"]
-www.iltalehti.fi##[href^="/nhl"]
-www.iltalehti.fi##[href^="/talviurheilu"]
-www.iltalehti.fi##[href^="/viihde"]
-www.iltalehti.fi##.article-list > * > [href^="/rakkausjaseksiartikkelit/"]
+duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi/"])
+duckduckgo.com##.links_deep.links_main.result__body:has(a[href^="https://www.is.fi/mainos"])
 www.iltalehti.fi##.article-list > * > [href^="/nhl/"]
+www.iltalehti.fi##.article-list > * > [href^="/rakkausjaseksiartikkelit/"]
 www.iltalehti.fi##.article-list > * > [href^="/talviurheilu/"]
 www.iltalehti.fi##.article-list > * > [href^="/viihde"]
-
-www.is.fi##li > [href^="/kuninkaalliset/"]
-
-! valikko
-www.is.fi##.desktop.level-one > .item-level-one.has-subs.sports
+www.iltalehti.fi##[href^="/nhl"]
+www.iltalehti.fi##[href^="/rakkausjaseksi"]
+www.iltalehti.fi##[href^="/talviurheilu"]
+www.iltalehti.fi##[href^="/tyylicom"]
+www.iltalehti.fi##[href^="/viihde"]
+www.iltalehti.fi##li:has([href="/rakkausjaseksi"])
+www.iltalehti.fi##li:has([href="/tyylicom"])
 www.is.fi##.desktop.level-one > .item-level-one.has-subs.entertainment
-
-! junk on is.fi
-www.is.fi##.right-position.lane > div.block:has-text(Näköislehti)
-www.is.fi##.right-position.lane > div.block:has-text(10 kysymystä)
-www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
-
-
-www.is.fi##.mystyle.lifestyle.fashion-root.fashion.lifestyle-list
-www.is.fi##.lifestyle-teaser
-||www.is.fi/assets/images/fashion-logo-header.*.svg$image
-www.is.fi##[href^="/mystyle"]
+www.is.fi##.desktop.level-one > .item-level-one.has-subs.sports
+www.is.fi##.item-level-one.has-subs.hide-medium.cars
 www.is.fi##.lane-header-lifestyle.lane-header
-
-! youtube junk content
-www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Reality TV)
+www.is.fi##.lane-header-navi:has-text(Tulospalvelu):has-text(Sarjataulukot)
+www.is.fi##.lifestyle-teaser
+www.is.fi##.most-popular > li:has([href^="/ampumahiihto"])
+www.is.fi##.most-popular > li:has([href^="/jaakiekko"])
+www.is.fi##.most-popular > li:has([href^="/maastohiihto"])
+www.is.fi##.most-popular > li:has([href^="/makihyppy"])
+www.is.fi##.most-popular > li:has([href^="/nhl"])
+www.is.fi##.most-popular > li:has([href^="/nyrkkeily"])
+www.is.fi##.most-popular > li:has([href^="/urheilu"])
+www.is.fi##.most-popular > li:has([href^="/viihde/"])
+www.is.fi##.mystyle.lifestyle.fashion-root.fashion.lifestyle-list
+www.is.fi##.numbered-list.lifestyle
+www.is.fi##.right-position.lane > div.block:has-text(10 kysymystä)
+www.is.fi##.right-position.lane > div.block:has-text(Näköislehti)
+www.is.fi##.six-most-popular.is-list
+www.is.fi##[href^="/ampumahiihto"]
+www.is.fi##[href^="/asuminen/"]
+www.is.fi##[href^="/horoskooppi/"]
+www.is.fi##[href^="/jaakiekko"]
+www.is.fi##[href^="/laihdutus/"]
+www.is.fi##[href^="/maastohiihto"]
+www.is.fi##[href^="/makihyppy"]
+www.is.fi##[href^="/mystyle"]
+www.is.fi##[href^="/nhl"]
+www.is.fi##[href^="/nyrkkeily"]
+www.is.fi##[href^="/seksi-parisuhde/"]
+www.is.fi##[href^="/urheilu"]
+www.is.fi##[href^="/viihde/"]
+www.is.fi##li > [href^="/kuninkaalliset/"]
+www.is.fi##li > [href^="/kuninkaalliset/"]
+www.is.fi##li.list-item > [href^="/khl/"]
+www.is.fi##li.list-item > [href^="/politiikka/"]
 www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Beauty Tips)
+www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Reality TV)
+||www.is.fi/assets/images/fashion-logo-header.*.svg$image

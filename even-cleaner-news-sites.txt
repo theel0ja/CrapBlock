@@ -20,3 +20,8 @@ www.mtvuutiset.fi##.site-footer-mtvuutiset.site-footer.component
 ! www.ibtimes.co.uk
 ! Sidebar with videos, "Read next" etc. useless crap
 www.ibtimes.co.uk##.hidden-print.side-contents.card
+
+! is.fi
+is.fi/rest/pe/alsoreadthese/
+www.is.fi##.header-aside-bar
+www.is.fi##.main-footer
