@@ -719,3 +719,6 @@ console.scaleway.com##.e1cu1im40.css-q919en-FloatingButton--FloatingButton
 
 ! Twitter widget top right corner (i)
 ##a[href^="https://support.twitter.com/"][title="Twitter Ads info and privacy"]
+
+! Popup, occurs only on mobile
+www.yify-subtitles.com###dbox:has(.dbox_dialog)
