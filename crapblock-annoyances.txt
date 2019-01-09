@@ -40,6 +40,14 @@ vice.com/api/v1/related/articles/*?*&per_page=5
 ! https://thenextweb.com/dd/2019/01/05/github-now-gives-free-users-unlimited-private-repositories/
 thenextweb.com/wp-content/themes/cyberdelia/ajax/partials/article-sheet.php?frstPostId=*&*&_=*
 
+! https://www.dailydot.com/irl/skin-tone-emoji/
+https://www.dailydot.com/*/*/?ajax$xhr
+
+! https://www.androidcentral.com/lawnchair-best-new-android-launcher-you-probably-havent-tried-yet
+androidcentral.com/ajax/article/related/*?json$xhr,domain=androidcentral.com
+www.androidcentral.com##.btn--load-more--active.js-load-more.btn--load-more.btn > .fa-spin
+
+
 !----OTHER----
 
 ! SSL Cert seals
