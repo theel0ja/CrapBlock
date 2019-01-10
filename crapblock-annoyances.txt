@@ -733,3 +733,4 @@ www.yify-subtitles.com###dbox:has(.dbox_dialog)
 ! Github status
 github.com##.user-status-header
 github.com##.js-user-status-context
+github.com##.user-status-container
