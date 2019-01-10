@@ -729,3 +729,7 @@ console.scaleway.com##.e1cu1im40.css-q919en-FloatingButton--FloatingButton
 
 ! Popup, occurs only on mobile
 www.yify-subtitles.com###dbox:has(.dbox_dialog)
+
+! Github status
+github.com##.user-status-header
+github.com##.js-user-status-context
