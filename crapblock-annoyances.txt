@@ -758,4 +758,8 @@ github.com##.user-status-container
 metro.co.uk##li.post.item:has(.metro-signpost-ad-feature)
 
 ! Discounts
-metro.co.uk##li.metro-discount-codes-item
+metro.co.uk##li.metro-discount-codes-
+
+! outbrain container
+! Report to EasyList
+nypost.com##.outbrain-enabled

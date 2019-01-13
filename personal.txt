@@ -64,3 +64,5 @@ www.is.fi##li.list-item > [href^="/politiikka/"]
 www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Beauty Tips)
 www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container:has-text(Reality TV)
 ||www.is.fi/assets/images/fashion-logo-header.*.svg$image
+twitter.com#?#.tweet:-abp-contains(vasemmisto)
+twitter.com#?#.tweet:-abp-contains(oikeisto)
