@@ -42,3 +42,11 @@ metro.co.uk##.mobile-nav-trending
 metro.co.uk###comment-show
 metro.co.uk###fb-comments-area
 metro.co.uk##.met-breadcrumb
+
+! nypost.com
+nypost.com##.read-next-wrapper
+nypost.com##.widget-more-stories
+nypost.com##.right-column.sidebar
+
+! verkkouutiset.fi
+www.verkkouutiset.fi##article.exclusive.featured-post:has-text(Tule töihin Verkkouutisiin!)
