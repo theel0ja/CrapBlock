@@ -753,3 +753,9 @@ www.yify-subtitles.com###dbox:has(.dbox_dialog)
 github.com##.user-status-header
 github.com##.js-user-status-context
 github.com##.user-status-container
+
+! NATIVE ADS
+metro.co.uk##li.post.item:has(.metro-signpost-ad-feature)
+
+! Discounts
+metro.co.uk##li.metro-discount-codes-item

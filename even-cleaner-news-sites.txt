@@ -25,3 +25,20 @@ www.ibtimes.co.uk##.hidden-print.side-contents.card
 is.fi/rest/pe/alsoreadthese/
 www.is.fi##.header-aside-bar
 www.is.fi##.main-footer
+
+! metro.co.uk
+metro.co.uk##.widget.just-in-container.trending-sidebar
+metro.co.uk##.widget.trending-main
+metro.co.uk###widget-area-article-below-bottom-share
+metro.co.uk##.widget.trending-main
+metro.co.uk##.widget.metro-breaker
+metro.co.uk##.widget-area.more-content
+metro.co.uk##.feed.metro-spinner
+metro.co.uk###page-bottom
+metro.co.uk##.metro-sassy-poll
+www.wisegeek.com##.slideshowsBlock.standartBlock
+www.wisegeek.com###quizgeek-game
+metro.co.uk##.mobile-nav-trending
+metro.co.uk###comment-show
+metro.co.uk###fb-comments-area
+metro.co.uk##.met-breadcrumb

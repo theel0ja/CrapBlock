@@ -2,6 +2,7 @@
 ! Title: CrapBlock Twitter Cleanup
 ! Expires: 4 days
 ! Homepage: https://crapblock.theel0ja.info/
+! DEPRECATED. NOW IN MAIN FILE (Annoyances)
 
 ! Moments
 twitter.com##.js-moments-tab.moments
