@@ -1,3 +1,0 @@
-! Crapblock Antiadblock lists
-
-palemoon.org##div:has(#abclosebutton):has-text(please disable your ad blocker)

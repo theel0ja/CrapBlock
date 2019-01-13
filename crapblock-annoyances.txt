@@ -7,7 +7,6 @@
 !
 ! upstream
 ! TODO: add finnish-easylist-addition annoyances
-!#include anti-adblock.txt
 
 !---INFINITE SCROLLING NEWS SITES----
 ! Prevent loading news articles when scrolling to bottom,
@@ -325,6 +324,9 @@ www.ctrl.blog##.entry-header>aside:has-text(Please consider disabling your ad bl
 www.ctrl.blog##.entry-header>aside:has-text(Hey! I just met you; and this is crazy; but whitelist me in adblock, maybe?)
 www.ctrl.blog##.entry-header>aside:has-text(Your internet bill doesn’t pay the websites you read.):has([href="https://flattr.com/contributors"])
 www.ctrl.blog##.entry-header>aside:has-text(Your internet bill doesn’t pay the blogs you read.):has([href="https://flattr.com/contributors"])
+
+! palemoon.org - anti adblock
+palemoon.org##div:has(#abclosebutton):has-text(please disable your ad blocker)
 
 ! hs.fi - unblock "follow topic" button
 www.hs.fi#@#.follow-text
