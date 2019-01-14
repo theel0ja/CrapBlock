@@ -52,3 +52,15 @@ nypost.com###newscorp-footer
 
 ! verkkouutiset.fi
 www.verkkouutiset.fi##article.exclusive.featured-post:has-text(Tule töihin Verkkouutisiin!)
+
+! yle.fi
+yle.fi###yle-comments-plugin
+
+! thesun.co.uk
+www.thesun.co.uk###sidebar
+www.thesun.co.uk##.rail--trending
+www.thesun.co.uk##footer
+
+! mashable.com
+mashable.com##.bonus-video-card
+mashable.com###site-footer
