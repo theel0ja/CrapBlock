@@ -36,12 +36,14 @@ metro.co.uk##.widget-area.more-content
 metro.co.uk##.feed.metro-spinner
 metro.co.uk###page-bottom
 metro.co.uk##.metro-sassy-poll
-www.wisegeek.com##.slideshowsBlock.standartBlock
-www.wisegeek.com###quizgeek-game
 metro.co.uk##.mobile-nav-trending
 metro.co.uk###comment-show
 metro.co.uk###fb-comments-area
 metro.co.uk##.met-breadcrumb
+
+! wisegeek.com
+www.wisegeek.com##.slideshowsBlock.standartBlock
+www.wisegeek.com###quizgeek-game
 
 ! nypost.com
 nypost.com##.read-next-wrapper
@@ -64,3 +66,9 @@ www.thesun.co.uk##footer
 ! mashable.com
 mashable.com##.bonus-video-card
 mashable.com###site-footer
+
+! buzzfeednews.com
+www.buzzfeednews.com##.newsblock-support-cta--bottom.newsblock-support-cta
+www.buzzfeednews.com##.comments-facebook
+www.buzzfeednews.com##.bottom-recirc-lists
+www.buzzfeednews.com###mod-feedgrid-1
