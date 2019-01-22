@@ -68,6 +68,9 @@ twitter.com##.trends.Trends.module:has-text(Worldwide trends)
 
 !----OTHER----
 
+! Disqus reactions
+disqus.com###reactions
+
 ! SSL Cert seals
 ||seal.websecurity.norton.com
 ||seal.godaddy.com
