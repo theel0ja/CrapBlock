@@ -837,3 +837,7 @@ www.androidpolice.com##.menu-item > [href="https://www.androidpolice.com/subscri
 ! REFERRAL LINKS
 ##a[href^="https://www.digitalocean.com/?refcode="]
 raymii.org##[href^="http://clients.inceptionhosting.com/aff.php"]
+
+! Badware risk - Onavo
+! https://techcrunch.com/2019/01/29/facebook-project-atlas/
+||onavo.com^
