@@ -841,5 +841,10 @@ www.androidpolice.com##.menu-item > [href="https://www.androidpolice.com/subscri
 ##a[href^="https://www.digitalocean.com/?refcode="]
 raymii.org##[href^="http://clients.inceptionhosting.com/aff.php"]
 
+! Badware risk - Onavo
+! https://techcrunch.com/2019/01/29/facebook-project-atlas/
+||onavo.com^
+||play.google.com/store/apps/details?id=com.onavo.*$document
+
 ! VPN Ad at tomsguide.com
 www.tomsguide.com###carousel-multi-css--reponsive-table-532456-
