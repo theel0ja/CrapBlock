@@ -841,3 +841,4 @@ raymii.org##[href^="http://clients.inceptionhosting.com/aff.php"]
 ! Badware risk - Onavo
 ! https://techcrunch.com/2019/01/29/facebook-project-atlas/
 ||onavo.com^
+||play.google.com/store/apps/details?id=com.onavo.*$document
