@@ -79,6 +79,9 @@ www.buzzfeednews.com###mod-feedgrid-1
 ! techcrunch.com
 techcrunch.com##.site-footer
 
+! tomsguide.com
+www.tomsguide.com###related-content
+
 ! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
 ! techcrunch.com##article.post-block--unread.post-block--image.post-block
 

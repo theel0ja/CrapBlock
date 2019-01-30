@@ -56,6 +56,9 @@ www.cultofmac.com##+js(abort-on-property-write.js, COM_Infinite)
 9to5mac.com/?infinity=scrolling$xhr
 /?infinity=scrolling$xhr
 
+! https://www.tomsguide.com/us/apple-facebook-onavo,news-27869.html
+tomsguide.com/xhr/*.html?page=*$xhr
+
 !----STICKY PLAYERS----
 www.bbc.com##.sticky-player--visible.sticky-player--pinned.sticky-player--enabled
 
@@ -837,3 +840,6 @@ www.androidpolice.com##.menu-item > [href="https://www.androidpolice.com/subscri
 ! REFERRAL LINKS
 ##a[href^="https://www.digitalocean.com/?refcode="]
 raymii.org##[href^="http://clients.inceptionhosting.com/aff.php"]
+
+! VPN Ad at tomsguide.com
+www.tomsguide.com###carousel-multi-css--reponsive-table-532456-
