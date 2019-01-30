@@ -66,3 +66,9 @@ www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-
 ||www.is.fi/assets/images/fashion-logo-header.*.svg$image
 twitter.com#?#.tweet:-abp-contains(vasemmisto)
 twitter.com#?#.tweet:-abp-contains(oikeisto)
+||n0pe.org/img/me.jpg$image
+www.youtube.com###feed-main-what_to_watch
+www.iltalehti.fi##[href^="/politiikka/"]
+www.mtvuutiset.fi##.theme-lifestyle
+www.mtvuutiset.fi##.theme-viihde
+servers.quad.moe##div.server > .img

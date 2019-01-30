@@ -16,6 +16,9 @@ www.mtvuutiset.fi##.component-leiki.component
 www.mtvuutiset.fi##.article-tags
 www.mtvuutiset.fi##.navigation-toggles
 www.mtvuutiset.fi##.site-footer-mtvuutiset.site-footer.component
+www.mtvuutiset.fi##.mtv-uutisvinkki-whatsapp-component
+www.mtvuutiset.fi##.topics-menu-taglist-container
+www.mtvuutiset.fi##.newsticker.component
 
 ! www.ibtimes.co.uk
 ! Sidebar with videos, "Read next" etc. useless crap
@@ -72,3 +75,16 @@ www.buzzfeednews.com##.newsblock-support-cta--bottom.newsblock-support-cta
 www.buzzfeednews.com##.comments-facebook
 www.buzzfeednews.com##.bottom-recirc-lists
 www.buzzfeednews.com###mod-feedgrid-1
+
+! techcrunch.com
+techcrunch.com##.site-footer
+
+! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
+! techcrunch.com##article.post-block--unread.post-block--image.post-block
+
+!----------------------------------------!
+
+! LOW QUALITY COMMENT BOXES
+www.iltalehti.fi##.coral-talk
+www.is.fi##.is-comments-widget
+www.numbeo.com##.comments_box

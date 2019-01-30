@@ -9,3 +9,9 @@ www.youtube.com###masthead-positioner-height-offset:style(height: 56px !importan
 www.verkkouutiset.fi##.exclusive.featured-post:has-text(Kirjautumalla saat enemmän)
 ! vastuullista journalismia
 www.verkkouutiset.fi##.sidebar-width.gray:has([src*="vastuullistajournalismia"])
+
+! Yet Even More Pure Video Experience
+www.youtube.com#@#button[title="Share"]
+www.youtube.com#@#.yt-uix-button[data-trigger-for="action-panel-share"]
+@@||youtube.com/share_ajax?action_get_share_box=1&video_id=$xmlhttprequest
+www.youtube.com##.share-panel > .yt-uix-tabs > .yt-uix-button-group > .share-panel-email

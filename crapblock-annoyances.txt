@@ -45,6 +45,17 @@ https://www.dailydot.com/*/*/?ajax$xhr
 androidcentral.com/ajax/article/related/*?json$xhr,domain=androidcentral.com
 www.androidcentral.com##.btn--load-more--active.js-load-more.btn--load-more.btn > .fa-spin
 
+! https://www.cnet.com/news/pixel-buds-wireless-headphones/
+https://www.cnet.com/news/*/xhr/$xhr,domain=cnet.com
+www.cnet.com##.upNextBottomWrapper
+
+! https://www.cultofmac.com/103703/apple-may-be-invisibly-filtering-your-outgoing-mobileme-email-exclusive/103703/
+www.cultofmac.com##+js(abort-on-property-write.js, COM_Infinite)
+
+! https://9to5mac.com/2019/01/25/t-mobile-video-service/
+9to5mac.com/?infinity=scrolling$xhr
+/?infinity=scrolling$xhr
+
 !----STICKY PLAYERS----
 www.bbc.com##.sticky-player--visible.sticky-player--pinned.sticky-player--enabled
 
@@ -327,6 +338,7 @@ www.ctrl.blog##.entry-header>aside:has-text(Please consider disabling your ad bl
 www.ctrl.blog##.entry-header>aside:has-text(Hey! I just met you; and this is crazy; but whitelist me in adblock, maybe?)
 www.ctrl.blog##.entry-header>aside:has-text(Your internet bill doesn’t pay the websites you read.):has([href="https://flattr.com/contributors"])
 www.ctrl.blog##.entry-header>aside:has-text(Your internet bill doesn’t pay the blogs you read.):has([href="https://flattr.com/contributors"])
+www.ctrl.blog##.auc-rm.auc-bu.box-pr.box-pf.boxa:has(iframe[src*="amazon-adsystem.com"])
 
 ! palemoon.org - anti adblock
 palemoon.org##div:has(#abclosebutton):has-text(please disable your ad blocker)
@@ -399,6 +411,7 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ##a[href^="https://www.get-express-vpn.com/"]
 ||dnsleaktest.com/img/ivpn-sponsor.png$image
 ##a[href*="NordVPN.com"]
+##[href^="https://www.privateinternetaccess.com/pages/buy-vpn/"]:has(img)
 
 ! PIA banners
 /pia_banner.$image
@@ -413,7 +426,7 @@ www.linode.com##.library-signup > .email-signup
 portforward.com##[href="https://portforward.com/store/pfconfig.cgi"]
 
 ! Unbreak independent.co.uk
-@@cdn.ampproject.org/*$domain=independent.co.uk,draugeros.ml
+@@||cdn.ampproject.org^$script,domain=independent.co.uk|draugeros.ml|sumguy.com
 
 ! facebook
 facebook.com###u_0_f:has-text(See more of ):has-text( on Facebook)
@@ -524,6 +537,9 @@ itsfoss.com##.ss-social-share-label
 about.gitlab.com##.article.blog > * > .social
 www.arabstoday.net##.newread-social
 fstoppers.com##.follow-fstoppers
+www.alpro.com##.social
+www.paypal.com##div[class^="share_campaign__share-icons"]
+asunnot.oikotie.fi##.some-links
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -720,7 +736,8 @@ www.mozilla.org##.notification-banner:has-text(Your Firefox is out-of-date.)
 ! "Deals"
 www.ghacks.net##[href="https://deals.ghacks.net/"]
 www.androidpolice.com###aprecentpostswidget-2:has(.section-header:has-text(Latest Deals))
-
+www.extremetech.com##.articles > li:has([href^="https://www.extremetech.com/deals/"])
+www.aarp.org##.aarpe-discounts-and-offers
 
 ! TAKE OUR SURVEY
 nationalpost.com###utilitysettings-6:has-text(Share your feedback):has-text(Take our 60-second survey)
@@ -766,3 +783,57 @@ metro.co.uk##li.metro-discount-codes-
 ! outbrain container
 ! Report to EasyList
 nypost.com##.outbrain-enabled
+
+! CultOfMac annoying flashing GIFs
+www.cultofmac.com##[src="/wp-content/themes/com2014/images/sidebar_cultcast_v2.gif"]
+||www.cultofmac.com/wp-content/themes/com2014/images/sidebar_buyback.gif$image
+||www.cultofmac.com/wp-content/themes/com2014/images/sidebar_buyback.gif$image
+
+! Temp-mail.org annoyances
+temp-mail.org##.bottom_news_block
+||temp-mail.org/images/plugins-banners/firefox_temp_mail_130x94.png$image
+temp-mail.org##.side-plugin-banner
+
+! Webcache favicon
+webcache.googleusercontent.com/favicon.ico$image
+
+! Share buttons
+knowyourmeme.com##.floating-share-bar
+
+! Useless stuff on whois.com
+www.whois.com##.chiclet_wph
+www.whois.com##.slides-container
+www.whois.com###suggest-container
+www.whois.com##.promoblurb-container
+
+! 1/19/2019 https://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162
+www.laweekly.com##em:has([href="http://www.facebook.com/LAWeeklyMusic"])
+www.laweekly.com##.bottom-lists:has-text(From Our Sponsors)
+
+! download our app
+||searchengineland.com/figz/wp-content/themes/searchengineland/img/icons/black-badge-appstore.png$image
+||searchengineland.com/figz/wp-content/themes/searchengineland/img/icons/black-google-play-badge.png$image
+
+! Sourceforge ads
+sourceforge.net##.bitdefender-promo
+sourceforge.net##.col-bitdefender
+
+! Liquidweb campaign
+www.liquidweb.com##[href="https://www.liquidweb.com/campaign/KB75Trial/"]:has(img)
+
+! Wikia cleanup
+my-summer-car.wikia.com###WikiaArticleComments
+my-summer-car.wikia.com###wikia-recent-activity
+
+! Sponsored stuff on alternativeto.net
+alternativeto.net##.sponsored
+
+! Dumb meme distro
+www.omgubuntu.co.uk##.ChartWidget-row--red.ChartWidget-row:has-text(Hannah Montana Linux)
+
+! androidpolice.com
+www.androidpolice.com##.menu-item > [href="https://www.androidpolice.com/subscribe-donate/"]
+
+! REFERRAL LINKS
+##a[href^="https://www.digitalocean.com/?refcode="]
+raymii.org##[href^="http://clients.inceptionhosting.com/aff.php"]
