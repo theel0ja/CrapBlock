@@ -4,6 +4,7 @@
 ! Homepage: https://crapblock.theel0ja.info/
 !
 ! Removes "Related", "Read next" etc. bloat from news sites
+! I also recommend using my main list, CrapBlock Annoyances
 
 ! mtvuutiset.fi
 www.mtvuutiset.fi##.read-more-link-on-desktop.read-more-desktop.leiki-news-feed.component.news-feed
@@ -81,6 +82,10 @@ techcrunch.com##.site-footer
 
 ! tomsguide.com
 www.tomsguide.com###related-content
+
+! [nordic.]businessinsider.com
+businessinsider.com##.carousel-title
+businessinsider.com##.wide-carousel
 
 ! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
 ! techcrunch.com##article.post-block--unread.post-block--image.post-block
