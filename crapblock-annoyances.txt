@@ -59,6 +59,17 @@ www.cultofmac.com##+js(abort-on-property-write.js, COM_Infinite)
 ! https://www.tomsguide.com/us/apple-facebook-onavo,news-27869.html
 tomsguide.com/xhr/*.html?page=*$xhr
 
+! https://theintercept.com/2015/11/06/how-law-enforcement-can-use-google-timeline-to-track-your-every-move/
+theintercept.com##.InfiniteScroll
+
+! breaks frontpage
+! theintercept.com/api/requestHomepageItems/$xhr
+
+! Posts a ton of junk requests on the end of the article
+theintercept.com##.PostLanding > div:nth-of-type(2)
+! Fix for that:
+theintercept.com/api/requestReverseChron/?language=en&page=*&postsPerPage=1$xhr
+
 !----STICKY PLAYERS----
 www.bbc.com##.sticky-player--visible.sticky-player--pinned.sticky-player--enabled
 
