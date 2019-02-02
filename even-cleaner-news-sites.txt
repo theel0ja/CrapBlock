@@ -87,6 +87,17 @@ www.tomsguide.com###related-content
 businessinsider.com##.carousel-title
 businessinsider.com##.wide-carousel
 
+! rt.com
+www.rt.com##.read-more
+www.rt.com##.js-news-block.news-block
+www.rt.com##.static-33_high-100.columns__column
+
+! theguardian.com
+www.theguardian.com###related-stories
+www.theguardian.com##.content-footer--pillar-news.content-footer
+www.theguardian.com##.footer__primary > .subnav.js-expand-subnav
+www.theguardian.com##.top-bar__commercial-items
+
 ! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
 ! techcrunch.com##article.post-block--unread.post-block--image.post-block
 
