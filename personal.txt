@@ -11,6 +11,8 @@
 ! google translate - translate page fix
 translate.google.com###gba
 
+! broken under Firefox:
+||gamee.com^
 
 duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi/"])
 duckduckgo.com##.links_deep.links_main.result__body:has(a[href^="https://www.is.fi/mainos"])
@@ -72,3 +74,4 @@ www.iltalehti.fi##[href^="/politiikka/"]
 www.mtvuutiset.fi##.theme-lifestyle
 www.mtvuutiset.fi##.theme-viihde
 servers.quad.moe##div.server > .img
+||thepiratebay.org/static/img/tpblogo_sm_ny.gif$image

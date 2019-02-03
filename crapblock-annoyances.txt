@@ -541,6 +541,11 @@ rutracker.org##.w100.tCenter
 rutracker.org##[id^="bn-idx-"]
 rutracker.org##[href="https://rublacklist.net/rutracker_redirect"]
 
+! ad servers
+||robinbob.in$domain=rutracker.org
+||rublacklist.net$domain=rutracker.org
+||roskomsvoboda.org$domain=rutracker.org
+
 ! social media containers
 rutracker.org###soc-container
 mashable.com##.follow-channel
@@ -554,6 +559,10 @@ fstoppers.com##.follow-fstoppers
 www.alpro.com##.social
 www.paypal.com##div[class^="share_campaign__share-icons"]
 asunnot.oikotie.fi##.some-links
+motherboard.vice.com###Facebook
+motherboard.vice.com##.m-r-5-xs > .site-header__social-icon
+itsfoss.com##.ss-follow-total-counter
+www.mnn.com##.square-social
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -583,10 +592,12 @@ mailbox.org##.block.nav-testen.mod_customnav:has-text(Free):has-text(30-day):has
 ! false positives on youtube channel about pages
 www.youtube.com#@#a[title="Instagram"]
 
+lawnchair.app#@#.mdi-twitter
+
 ! ad containers
-! 12/25/2018, 1:55:41 PM https://www.foobar2000.org/
+! 12/25/2018 https://www.foobar2000.org/
 www.foobar2000.org##.padding > table:has(caption:has-text(advertisement))
-! 12/25/2018, 1:56:35 PM https://www.foobar2000.org/download
+! 12/25/2018 https://www.foobar2000.org/download
 www.foobar2000.org##.release_info > table:has(caption:has-text(advertisement))
 
 ! annoying logo
@@ -618,6 +629,7 @@ www.whonix.org###localNotice:has-text(Whonix requires money to stay alive.)
 
 ! Newsletter
 robertheaton.com##.blogpost.post > section:has(#mc-embedded-subscribe-form)
+robertheaton.com##.container > section:not(.blogpost):has(#mc-embedded-subscribe-form)
 
 ! about.me advertisement
 about.me##.anonymous_ledge_view-scope-1RSnD
@@ -859,3 +871,65 @@ raymii.org##[href^="http://clients.inceptionhosting.com/aff.php"]
 
 ! VPN Ad at tomsguide.com
 www.tomsguide.com###carousel-multi-css--reponsive-table-532456-
+
+! Newsletter popup
+www.occrp.org##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.occrp.org##.mfp-ready.mfp-bg
+www.occrp.org##html:style(overflow: auto !important;)
+
+! Pingdom ad
+tools.pingdom.com##app-cta-bar
+
+! Advertisement of new panel of Scaleway
+cloud.scaleway.com##.brand.topbanner > [href="https://console.scaleway.com/"]
+
+! "please disable adblock"
+digiex.net##.samSupportUs
+
+! Newsletter
+www.tomshardware.com###newsletter
+www.cnbc.com###nl-optin-rr-move
+www.ctrl.blog##.cta-email.page-footer-cta
+
+! Popups
+medium.com,hackernoon.com##.overlay--lighter.overlay
+medium.com,hackernoon.com##+js(overlay-buster.js)
+
+! io-tech
+bbs.io-tech.fi##.sidebar> p:has([href^="https://hinta.fi/"])
+bbs.io-tech.fi###huDfpgkE > [href^="https://hinta.fi/"]
+
+! shortlinks
+old.reddit.com##.linkinfo > .shortlink
+qz.com###article-short-url
+
+||forum.xda-cdn.com/images/suggested-apps/play-store-icon-icon.png$image
+old.reddit.com##.premium-banner
+
+! Patreon
+linuxg.net##.widget_patreon_sidebar_site_widget
+linuxg.net##.cb_p6_patreon_button
+
+! Sidebar with viral content
+imgur.com###right-content
+
+! Sponsored stuff aka "native ads"
+www.quora.com##.promoted_answer_wrapper
+
+! adsense
+! TODO: reprot to EasyList?
+thebarentsobserver.com##.adsense
+
+! Boingboing
+boingboing.net###next-post-thumbnails
+boingboing.net##.widget_stackcommerce_widget
+
+! Podcast ad
+theintercept.com##.InterceptedBanner--desktop.InterceptedBanner
+
+! Sidebar with useless crap
+www.apkmirror.com###sidebar
+
+! Youtube premium/tv
+www.youtube.com###unlimited-guide-item
+www.youtube.com###-guide-item

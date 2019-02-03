@@ -10,7 +10,11 @@ www.verkkouutiset.fi##.exclusive.featured-post:has-text(Kirjautumalla saat enemm
 ! vastuullista journalismia
 www.verkkouutiset.fi##.sidebar-width.gray:has([src*="vastuullistajournalismia"])
 
+
+twitter.com##.topbar-spacer
+
 ! Yet Even More Pure Video Experience
+! TODO: Use $badfilter
 www.youtube.com#@#button[title="Share"]
 www.youtube.com#@#.yt-uix-button[data-trigger-for="action-panel-share"]
 @@||youtube.com/share_ajax?action_get_share_box=1&video_id=$xmlhttprequest
