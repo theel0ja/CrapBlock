@@ -77,6 +77,9 @@ www.buzzfeednews.com###mod-feedgrid-1
 ! techcrunch.com
 techcrunch.com##.site-footer
 
+! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
+! techcrunch.com##article.post-block--unread.post-block--image.post-block
+
 ! tomsguide.com
 www.tomsguide.com###related-content
 
@@ -219,8 +222,14 @@ www.recode.net##.l-col__sidebar
 mashable.com##.sidebar.box-cell
 mashable.com##.zerg-widgets
 
-! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
-! techcrunch.com##article.post-block--unread.post-block--image.post-block
+! wired.com
+www.wired.com##.fade-in-up.paywall.inset-left-component:has([href^="https://www.wired.com/tag/year-in-review/"])
+www.wired.com##.inset-left-component--article.fade-in-up.paywall.inset-left-component:has-text(Related Stories)
+www.wired.com##.related-cne-video-component__brow
+www.wired.com##.related-cne-video-component
+www.wired.com##.article-main-component__columns > .most-popular-side-bar-component
+! "read next" etc
+www.wired.com##.outer-wrapper
 
 !----------------------------------------!
 

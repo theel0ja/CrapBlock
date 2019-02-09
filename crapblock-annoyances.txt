@@ -983,3 +983,6 @@ www.whatismybrowser.com##.text > [href="/out/nordvpn"]
 www.whatismybrowser.com##.matched-content-page.matched-content.nonresponsive.fun > .fun-content
 www.whatismybrowser.com##.matched-content-page.matched-content.nonresponsive.fun > .fun-credits
 www.whatismybrowser.com##.fun-block.content-block
+
+! cookie consent
+forums.mydigitallife.net##.noticeContent.baseHtml:has-text(This site uses cookies.)

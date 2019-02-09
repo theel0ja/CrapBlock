@@ -20,6 +20,16 @@ www.invidio.us##.footer
 www.invidio.us##.user-field
 www.invidio.us##.pure-u-1 > .h-box > * > [href^="https://www.youtube.com/watch"]
 
+! trending
+invidio.us##div.pure-u-md-1-5.pure-u-1:nth-of-type(3) > .h-box
+invidio.us##div.pure-g:nth-of-type(3):has(img)
+
+! spammy shit in ddg
+duckduckgo.com##.links_deep.links_main.result__body:has(a[href*="easycounter.com/"])
+duckduckgo.com##.links_deep.links_main.result__body:has(a[href*="alexa.com/siteinfo"])
+
+! unorganized
+
 duckduckgo.com##.has-image.module--news__item:has(a[href^="https://www.seiska.fi/"])
 duckduckgo.com##.links_deep.links_main.result__body:has(a[href^="https://www.is.fi/mainos"])
 www.iltalehti.fi##.article-list > * > [href^="/nhl/"]
@@ -64,6 +74,13 @@ www.is.fi##[href^="/nhl"]
 www.is.fi##[href^="/nyrkkeily"]
 www.is.fi##[href^="/seksi-parisuhde/"]
 www.is.fi##[href^="/urheilu"]
+www.is.fi##[href^="/kuninkaalliset"]
+www.is.fi##[href^="/veikkausliiga"]
+www.is.fi##[href^="/nba/"]
+www.is.fi##[href^="/tv-ja-elokuvat/"]
+www.is.fi##[href^="/koripallo/"]
+www.is.fi##[href^="/yleisurheilu/"]
+www.is.fi##[href^="/muut-lagjit/"]
 www.is.fi##[href^="/viihde/"]
 www.is.fi##li > [href^="/kuninkaalliset/"]
 www.is.fi##li > [href^="/kuninkaalliset/"]
