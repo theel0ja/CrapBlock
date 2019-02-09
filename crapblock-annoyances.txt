@@ -933,3 +933,9 @@ www.apkmirror.com###sidebar
 ! Youtube premium/tv
 www.youtube.com###unlimited-guide-item
 www.youtube.com###-guide-item
+
+! unbreak 538.nl
+@@connect.facebook.net/nl_NL/sdk.js$domain=538.nl
+
+! anti adblock
+538.nl#@#.myTestAd
