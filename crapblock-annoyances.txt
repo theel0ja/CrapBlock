@@ -426,6 +426,8 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ||dnsleaktest.com/img/ivpn-sponsor.png$image
 ##a[href*="NordVPN.com"]
 ##[href^="https://www.privateinternetaccess.com/pages/buy-vpn/"]:has(img)
+||freenode.net/static/img/logos/PIALogo_white.svg$image
+freenode.net##[href^="https://www.privateinternetaccess.com/pages/buy-vpn/"]
 
 ! PIA banners
 /pia_banner.$image
@@ -516,6 +518,9 @@ github.com##[href^="https://opencollective.com"][href*="/sponsor/"]:has(img)
 ! unbreak icons on gitlab.com
 @@*$generichide,domain=gitlab.com|gitlab.lelux.fi|git.synz.io
 
+! unbreak chat
+@@||embed.tawk.to^$script,domain=buyvm.net
+
 ! unblock twitter timelines
 #@#.twitter-timeline
 @@||twitter.com/js/timeline.$third-party,script
@@ -530,6 +535,7 @@ hive.co#@#[data-cookie-id]
 ! bloomberg paywall&share
 bloomberg.com##.share-article-button
 bloomberg.com###paywall-banner
+www.wired.com##.paywall-container-component
 
 ! rutracker
 ||rutracker.org/iframe/MG-bottom.html$subdocument
@@ -563,6 +569,7 @@ motherboard.vice.com###Facebook
 motherboard.vice.com##.m-r-5-xs > .site-header__social-icon
 itsfoss.com##.ss-follow-total-counter
 www.mnn.com##.square-social
+www.cnbc.com###social-buttons
 
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
@@ -630,6 +637,7 @@ www.whonix.org###localNotice:has-text(Whonix requires money to stay alive.)
 ! Newsletter
 robertheaton.com##.blogpost.post > section:has(#mc-embedded-subscribe-form)
 robertheaton.com##.container > section:not(.blogpost):has(#mc-embedded-subscribe-form)
+www.circleid.com##.newsletterSignUp
 
 ! about.me advertisement
 about.me##.anonymous_ledge_view-scope-1RSnD
@@ -939,3 +947,39 @@ www.youtube.com###-guide-item
 
 ! anti adblock
 538.nl#@#.myTestAd
+
+! DDG infobox "Instance of" details
+searx.me##.infobox_part.table-striped.table > tbody > tr:has(td:has-text(Instance of))
+
+! Broken proxy on Searx.me
+searx.me##a[href^="https://searx.me:3000/?mortyurl="]
+
+! Ad stuff
+nmap.org##li:nth-of-type(8) > [href="https://insecure.org/advertising.html"]
+
+! ugly loading thing
+||blockchain.info/Resources/loading-large.gif$image
+
+! searx.me donate
+searx.me##div.panel-default.panel:has(.panel-heading > .panel-title:has-text(Donate))
+
+! download our app
+||tenta.com/test/images/google-play-badge.png$image
+
+! others
+cock.li##.infinite-scrolling
+quellish.tumblr.com##.open.tmblr-iframe--follow-teaser.tmblr-iframe
+securityheaders.com##div.reportSection:has-text(Supported By)
+10minutemail.net###support-table
+
+! ad popup
+spectrum.ieee.org###slashpage
+
+! whatismybrowser.com ads
+www.whatismybrowser.com##.wideskyscraper160.nonresponsive.fun
+www.whatismybrowser.com##.lrec336.nonresponsive.fun
+www.whatismybrowser.com##.responsive.fun
+www.whatismybrowser.com##.text > [href="/out/nordvpn"]
+www.whatismybrowser.com##.matched-content-page.matched-content.nonresponsive.fun > .fun-content
+www.whatismybrowser.com##.matched-content-page.matched-content.nonresponsive.fun > .fun-credits
+www.whatismybrowser.com##.fun-block.content-block

@@ -147,6 +147,78 @@ www.theverge.com##.river-segment-2.l-sidebar-fixed.l-main-content.l-segment > .l
 ! thenextweb.com
 thenextweb.com##.js-recommended.c-recommended
 
+! arstechnica.com
+arstechnica.com###recommendations-footer
+arstechnica.com##.ars-video-playlist-module-header
+arstechnica.com##.ars-video-playlist
+
+! handelsblatt.com
+www.handelsblatt.com##.vhb-club-events__alot
+www.handelsblatt.com##.vhb-share-social-rebrush.vhb-share-social.row
+www.handelsblatt.com##.vhb-teaser--recommendation
+www.handelsblatt.com##.vhb-more
+www.handelsblatt.com##.vhb-serviceoffer
+
+! gizmodo.com
+gizmodo.com##.leftrailmodule--popular.js_leftrailmodule.sidebar-module
+
+! bbc.com
+www.bbc.com###comp-pattern-library
+www.bbc.com###comp-elsewhere-on-the-bbc
+www.bbc.com###comp-most-popular
+www.bbc.com###comp-features-and-analysis
+www.bbc.com###comp-top-stories-promo
+www.bbc.com##.more-on-this-story.story-alsos.group
+www.bbc.com##.tags-container
+
+! spectrum.ieee.org
+spectrum.ieee.org##.jobs-wrapper
+spectrum.ieee.org###recommended
+
+! businessinsider.nl
+www.businessinsider.nl##.comments-wrap
+www.businessinsider.nl##.related-video
+www.businessinsider.nl##.sidebar__desktop.sidebar > .ll_partnerexpert.widget
+www.businessinsider.nl##.sidebar__desktop.sidebar
+www.businessinsider.nl###site-footer
+
+! www.cnbc.com
+www.cnbc.com##[class^="ArticleTicker-"]
+www.cnbc.com##.PageBuilder-sidebar.SidebarArticle-sidebar
+www.cnbc.com##.TransporterSection-transporterWrapper
+www.cnbc.com##[id^="Placeholder-ArticleBody-Video-"]
+www.cnbc.com###GlobalFooter
+
+! bloomberg.com
+www.bloomberg.com##.right-rail-v2.right-rail
+
+! theintercept.com
+theintercept.com##.InlineDonationPromo
+theintercept.com##a.Header-social-link > .icon-TI_Facebook.Icon--Facebook.Icon
+
+! www.bleepingcomputer.com
+www.bleepingcomputer.com##.bc_right_sidebar.col-md-4
+
+! abcnews.go.com
+abcnews.go.com##[class^="StoryPage__sideBar--"]
+abcnews.go.com##[class^="RelatedInterestStories__container"]
+abcnews.go.com##[class^="StoryPage__content--"] > [class^="Spinner__spinner--"]
+abcnews.go.com###news-feed-content.sidebar
+
+! deadline.com
+deadline.com###featured-content
+deadline.com###other-pmc-properties
+deadline.com###sidebar
+
+! recode.net
+www.recode.net##.c-compact-river
+www.recode.net##.c-nextclick
+www.recode.net##.l-col__sidebar
+
+! mashable.com
+mashable.com##.sidebar.box-cell
+mashable.com##.zerg-widgets
+
 ! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
 ! techcrunch.com##article.post-block--unread.post-block--image.post-block
 
