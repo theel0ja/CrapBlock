@@ -986,3 +986,7 @@ www.whatismybrowser.com##.fun-block.content-block
 
 ! cookie consent
 forums.mydigitallife.net##.noticeContent.baseHtml:has-text(This site uses cookies.)
+
+! Badware - NewsGuard
+! https://twitter.com/gorhill/status/1085980630863753217
+||api.newsguardtech.com/check?$xhr
