@@ -990,3 +990,7 @@ forums.mydigitallife.net##.noticeContent.baseHtml:has-text(This site uses cookie
 ! Badware - NewsGuard
 ! https://twitter.com/gorhill/status/1085980630863753217
 ||api.newsguardtech.com/check?$xhr
+
+! Impersonating domain
+! https://voidlinux.org/news/2019/02/voidlinux-eu-gone.html
+||voidlinux.eu^
