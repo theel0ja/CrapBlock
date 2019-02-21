@@ -231,6 +231,12 @@ www.wired.com##.article-main-component__columns > .most-popular-side-bar-compone
 ! "read next" etc
 www.wired.com##.outer-wrapper
 
+! www.dailycal.org
+www.dailycal.org##.widget-area
+
+! popularmechanics.com
+www.popularmechanics.com##.end-of-content-playlist
+
 !----------------------------------------!
 
 ! LOW QUALITY COMMENT BOXES

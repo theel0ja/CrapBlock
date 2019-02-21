@@ -469,7 +469,6 @@ www.theguardian.com##.contributions__epic
 ||adblock.keweon.center^
 ||keweon.center^
 @@sec.keweon.center/dns-query
-pki.keweon.center/certs/*.crt
 
 /favicon.ico$domain=n.kapsi.fi
 @@||buttons.github.io/buttons.js$domain=github.io
@@ -667,6 +666,9 @@ ask.fedoraproject.org###no-javascript
 ! Wikipedia donate nag
 en.wikipedia.org##[href^="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector"]
 en.wikipedia.org##[href="//shop.wikimedia.org"]
+
+! Bitcoin donate
+##.blockchain-btn
 
 ! Registration nags
 www.discogs.com##.gs_container_column.homepage-registration
@@ -994,3 +996,13 @@ forums.mydigitallife.net##.noticeContent.baseHtml:has-text(This site uses cookie
 ! Impersonating domain
 ! https://voidlinux.org/news/2019/02/voidlinux-eu-gone.html
 ||voidlinux.eu^
+
+
+! 2/13/2019 https://www.serverhunter.com
+www.serverhunter.com##.advertisement
+www.serverhunter.com##.advertisement.offer-row
+
+! 2/14/2019 http://www.dailycal.org
+www.dailycal.org##.entry-related
+www.dailycal.org##.donation-box-container
+www.dailycal.org##.supporter-container
