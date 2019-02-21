@@ -237,6 +237,9 @@ www.dailycal.org##.widget-area
 ! popularmechanics.com
 www.popularmechanics.com##.end-of-content-playlist
 
+! www.zdnet.com
+www.zdnet.com##.shortcodeGalleryWrapper
+
 !----------------------------------------!
 
 ! LOW QUALITY COMMENT BOXES

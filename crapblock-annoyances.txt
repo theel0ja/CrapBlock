@@ -428,6 +428,10 @@ userstyles.org##div.bottomLinks:has(div:has-text(Browsers:))
 ##[href^="https://www.privateinternetaccess.com/pages/buy-vpn/"]:has(img)
 ||freenode.net/static/img/logos/PIALogo_white.svg$image
 freenode.net##[href^="https://www.privateinternetaccess.com/pages/buy-vpn/"]
+hooktube.com##[href="/nordvpn"]
+hooktube.com##[href^="/static/nordvpn-"]
+lulz.com##[href="https://lulz.com/nordvpn"]
+||cryptoip.info/assets/images/liquidvpn-logo.gif$image
 
 ! PIA banners
 /pia_banner.$image
@@ -570,6 +574,9 @@ itsfoss.com##.ss-follow-total-counter
 www.mnn.com##.square-social
 www.cnbc.com###social-buttons
 
+! social media buttons
+www.eff.org##[href^="https://plus.google.com/+"]
+
 ! deezloader
 ##.valign-wrapper.hide-on-med-and-down.page-footer.left.darken-1.deezloader-black
 
@@ -590,6 +597,7 @@ indianexpress.com##aside.o-story-content__related:has-text(You might like)
 www.howtogeek.com###div-thetop1:has(script[src*="/pagead/js/"])
 androidfilehost.com##.page-file-thanks.page-container.download-file.row > .col-md-4:has-text(advertisement:)
 mt-tech.fi###custom_html-8:has(.widget-title:has-text(Ad:))
+debian-administration.org##.advert
 
 
 ! Annoying trial ad
