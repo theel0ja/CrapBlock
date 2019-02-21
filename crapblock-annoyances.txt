@@ -1006,3 +1006,10 @@ www.serverhunter.com##.advertisement.offer-row
 www.dailycal.org##.entry-related
 www.dailycal.org##.donation-box-container
 www.dailycal.org##.supporter-container
+
+! For preventing false positives on searx image search
+@@||search.lelux.fi^$generichide
+@@||haku.lelux.fi^$generichide
+@@||searx.me^$generichide
+@@||searx.xyz^$generichide
+@@||searx.nixnet.xyz^$generichide
