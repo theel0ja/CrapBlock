@@ -3,7 +3,7 @@
 Blocks crap such as infinite scrolling on websites
 
 ## Lists
-* [Annoyances](https://crapblock.theel0ja.info/crapblock-annoyances.txt) (`https://crapblock.theel0ja.info/crapblock-annoyances.txt`)
+* [General Blocklist](https://crapblock.theel0ja.info/crapblock-annoyances.txt) (`https://crapblock.theel0ja.info/crapblock-annoyances.txt`)
   * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt">Install list</a>
 * [Even cleaner news sites](https://crapblock.theel0ja.info/even-cleaner-news-sites.txt) (`https://crapblock.theel0ja.info/even-cleaner-news-sites.txt`)
   * <a href="abp:subscribe?location=https://crapblock.theel0ja.info/even-cleaner-news-sites.txt&title=Even cleaner news sites&requiresLocation=https://crapblock.theel0ja.info/even-cleaner-news-sites.txt">Install list</a>
