@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: CrapBlock Annoyances
+! Title: CrapBlock General
 ! Expires: 12 hours
 ! Homepage: https://crapblock.theel0ja.info/
 ! 
