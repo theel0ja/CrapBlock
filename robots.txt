@@ -1,2 +1,6 @@
 User-agent: ia_archiver
 Disallow: /
+
+! Obsolete list
+User-agent: *
+Disallow: /twitter-cleanup.txt
