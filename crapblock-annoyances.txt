@@ -229,6 +229,7 @@ arstechnica.com###ars-sub-app-free-yubikey
 ||xda-developers.com/images/XDA2013/header/themer_social_white.png$image
 ||xda-cdn.com/files/*/leaseweb_*.png$image
 ||xda-developers.com/images/leaseweb_*.png$image
+||forum.xda-developers.com/sponsors/brave/brave_desk.png$image
 
 ! tori.fi mainos
 www.tori.fi###prisjakt_popular_240x350
@@ -432,6 +433,7 @@ hooktube.com##[href="/nordvpn"]
 hooktube.com##[href^="/static/nordvpn-"]
 lulz.com##[href="https://lulz.com/nordvpn"]
 ||cryptoip.info/assets/images/liquidvpn-logo.gif$image
+torrentz2.eu##.alert-danger:has-text(PLEASE protect your online privacy.):has-text(IP-LOGGED)
 
 ! PIA banners
 /pia_banner.$image
@@ -697,6 +699,7 @@ who.is##center:has(img[src="https://d7l9sro0h1dem.cloudfront.net/results_page_to
 who.is##center:has(img[src="https://d7l9sro0h1dem.cloudfront.net/results_page_bottom_logo.jpg"]):has([href="https://www.name.com/redirect/whodotis/sidebar-bottom"])
 who.is###domainAvailabilityPowerBarProgress
 who.is##.teaser-bar.container-fluid:has([href^="http://www.us3.list-manage.com/subscribe"])
+||d7l9sro0h1dem.cloudfront.net/homepage_banner.jpg$image
 
 ! Posti tracking - "please download our app"
 ||www.posti.fi/henkiloasiakkaat/seuranta/assets/images/adwidget-placeholder.jpg$image
@@ -1021,3 +1024,10 @@ www.dailycal.org##.supporter-container
 @@||searx.me^$generichide
 @@||searx.xyz^$generichide
 @@||searx.nixnet.xyz^$generichide
+
+! Cryptocurrency ads
+miningpoolstats.stream##[href="https://www.binance.je"]:has(img[src*="referral"])
+||miningpoolstats.stream/img/zhash_60_2.jpg$image
+miningpoolstats.stream##[href="https://bitforex.com"]:has(img)
+||miningpoolstats.stream/img/poolin_300.gif$image
+||miningpoolstats.stream/img/equi462_v1.gif$image
