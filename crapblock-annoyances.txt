@@ -62,6 +62,9 @@ tomsguide.com/xhr/*.html?page=*$xhr
 ! https://theintercept.com/2015/11/06/how-law-enforcement-can-use-google-timeline-to-track-your-every-move/
 theintercept.com##.InfiniteScroll
 
+! https://www.fastcompany.com/90311848/yes-retailers-are-colluding-to-inflate-prices-online
+||fc-api.fastcompany.com/api/v2/fastcompany/post-finite$xhr
+
 ! breaks frontpage
 ! theintercept.com/api/requestHomepageItems/$xhr
 
