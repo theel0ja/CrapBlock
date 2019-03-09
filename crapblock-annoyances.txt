@@ -1034,3 +1034,6 @@ miningpoolstats.stream##[href="https://www.binance.je"]:has(img[src*="referral"]
 miningpoolstats.stream##[href="https://bitforex.com"]:has(img)
 ||miningpoolstats.stream/img/poolin_300.gif$image
 ||miningpoolstats.stream/img/equi462_v1.gif$image
+
+! Report-URI
+||cdn.report-uri.com/libs/report-uri-js/^$script
