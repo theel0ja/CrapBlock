@@ -917,7 +917,7 @@ www.ctrl.blog##.cta-email.page-footer-cta
 
 ! Popups
 medium.com,hackernoon.com##.overlay--lighter.overlay
-medium.com,hackernoon.com##+js(overlay-buster.js)
+# medium.com,hackernoon.com##+js(overlay-buster.js)
 
 ! io-tech
 bbs.io-tech.fi##.sidebar> p:has([href^="https://hinta.fi/"])
