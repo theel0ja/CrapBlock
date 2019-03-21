@@ -1037,3 +1037,9 @@ miningpoolstats.stream##[href="https://bitforex.com"]:has(img)
 
 ! Report-URI
 ||cdn.report-uri.com/libs/report-uri-js/^$script
+
+
+browserleaks.com###comments
+||disqus.com^$domain=browserleaks.com
+browserleaks.com##.vpn
+
