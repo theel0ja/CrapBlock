@@ -1,6 +1,6 @@
 # CrapBlock
 
-Blocks crap on websites
+Blocks crap such as infinite scrolling on websites
 
 Website: [crapblock.theel0ja.info](https://crapblock.theel0ja.info/) (has install links)
 
