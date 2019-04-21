@@ -73,6 +73,13 @@ theintercept.com##.PostLanding > div:nth-of-type(2)
 ! Fix for that:
 theintercept.com/api/requestReverseChron/?language=en&page=*&postsPerPage=1$xhr
 
+!----IMGUR----
+! https://github.com/theel0ja/CrapBlock/issues/5
+! https://old.reddit.com/r/uBlockOrigin/comments/bezeh2/block_imgurs_infinite_scrolling/elcho9q/
+! https://old.reddit.com/r/uBlockOrigin/comments/bezeh2/block_imgurs_infinite_scrolling/elawzns/
+
+imgur.com##+js(addEventListener-defuser.js, keydown)
+
 !----STICKY PLAYERS----
 www.bbc.com##.sticky-player--visible.sticky-player--pinned.sticky-player--enabled
 
