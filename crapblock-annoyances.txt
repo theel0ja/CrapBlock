@@ -225,6 +225,9 @@ redditmedia.com/moat/
 ! Error logger
 old.reddit.com/web/log/error.json
 
+! HideMyAss tracking
+||checkout.hidemyass.com/affiliate.php^$third-party
+
 ! Block Wikia cookie consent (ONLY WORKS WITH UBLOCK ORIGIN)
 ! https://github.com/ryanbr/fanboy-adblock/issues/572#issuecomment-428090691
 ! wikia.com##[data-tracking-opt-in-overlay]
