@@ -27,7 +27,7 @@ Blocks crap such as infinite scrolling on websites
 
 * [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script src="https://cdnjs.theel0ja.info/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <link rel="stylesheet" href="https://theel0ja.info/crapblock-cookieconsent/index.css">
 <script src="https://theel0ja.info/crapblock-cookieconsent/index.js"></script>
 
